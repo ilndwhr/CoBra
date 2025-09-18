@@ -1,11 +1,7 @@
 """
-Small Tkinter tool to annotate multi-constituent German compounds in CoNLL-U sentences.
+This tool provides a lightweight GUI for annotating and editing three-constituent German compounds in CoNLL-U Format developed along the CoBra-resource.
+It is designed to extend the Universal Dependencies (UD) format with new multiword-token spans for German multi-constituent compounds (similar to MWTs but on compond-constituent-level).
 
-Changes in this version:
-- The multiword token line automatically gets an ID range based on the chosen start id and number of constituents.
-- The span line is prefilled with the original compound token line, so the user can edit it.
-- Constituent lines are empty, but all 10 columns are visible.
-- Adjusted layout so that the fields fit into the scrollable canvas without exceeding window bounds.
 """
 
 import tkinter as tk
