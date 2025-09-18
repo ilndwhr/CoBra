@@ -1,4 +1,4 @@
-CoBraAnnotator
+### CoBraAnnotator
 
 
 
@@ -10,7 +10,7 @@ It is designed to extend the Universal Dependencies (UD) format with new multiwo
 
 
 
-Features
+## Features
 
 
 
@@ -22,13 +22,13 @@ On integration:
 
 
 
-TH annotator inserts the annotated span line and constituent lines into the sentence from the input text field, while keeping user-entered IDs and heads exactly as entered. It updates subsequent token IDs and heads only after the inserted span according to the selected number of constituents. There is an Option to clear all fields and resetting defaults (start ID=0, constituents=3, renumbering=on) after a completed annotation.The output window shows the annotated sentence, with a 'Copy to Clipboard'-button for easy insertion back into your dataset.
+The annotator inserts the annotated span line and constituent lines into the sentence from the input text field, while keeping user-entered IDs and heads exactly as entered. It updates subsequent token IDs and heads only after the inserted span according to the selected number of constituents. There is an Option to clear all fields and resetting defaults (start ID=0, constituents=3, renumbering=on) after a completed annotation.The output window shows the annotated sentence, with a 'Copy to Clipboard'-button for easy insertion back into your dataset.
 
 
 
 
 
-Installation
+## Installation
 
 
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 
 
-Usage
+## Usage
 
 
 
@@ -64,7 +64,7 @@ python conllu\_compound\_annotator.py
 
 
 
-User Manual
+## User Manual
 
 
 
