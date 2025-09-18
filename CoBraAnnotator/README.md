@@ -1,4 +1,4 @@
-### CoBraAnnotator
+# CoBraAnnotator
 
 
 
@@ -68,7 +68,7 @@ python conllu\_compound\_annotator.py
 
 
 
-1\. Load a Sentence
+#### 1\. Load a Sentence
 
 
 
@@ -76,7 +76,7 @@ Paste a single .conllu-parsed sentence into the input text box at the top.
 
 
 
-2\. Select Compound Position
+#### 2\. Select Compound Position
 
 
 
@@ -108,7 +108,7 @@ Pre-fill the UPOS, XPOS and FEATS columns with the inherited annotations from th
 
 
 
-3\. Annotate constituents
+#### 3\. Annotate constituents
 
 
 
@@ -120,7 +120,7 @@ All fields are editable an will generate a warning message if left empty.
 
 
 
-4\. Integrate
+#### 4\. Integrate
 
 
 
@@ -136,7 +136,7 @@ The annotated sentence will appear in the output box.
 
 
 
-5\. Copy
+#### 5\. Copy
 
 
 
@@ -144,7 +144,7 @@ Click 'Copy to Clipboard' to paste the annotated sentence into your main annotat
 
 
 
-6\. Clear
+#### 6\. Clear
 
 
 
