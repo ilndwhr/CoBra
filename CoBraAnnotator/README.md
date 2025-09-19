@@ -58,7 +58,7 @@ To run the tool run the following line in terminal:
 
 
 
-python conllu\_compound\_annotator.py
+python CoBraAnnotator.py
 
 
 
