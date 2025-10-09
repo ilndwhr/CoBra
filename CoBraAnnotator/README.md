@@ -24,11 +24,17 @@ On integration:
 
 The annotator inserts the annotated span line and constituent lines into the sentence from the input text field, while keeping user-entered IDs and heads exactly as entered. It updates subsequent token IDs and heads only after the inserted span according to the selected number of constituents. There is an Option to clear all fields and resetting defaults (start ID=0, constituents=3, renumbering=on) after a completed annotation.The output window shows the annotated sentence, with a 'Copy to Clipboard'-button for easy insertion back into your dataset.
 
+## Installation for the use as Application with .exe
+
+
+Download the CoBraAnnotator.exe file and open by clicking on the file.
+
+
+For a desktop short-cut simply right-click anywhere on your desktop and choose 'new', then choose short-cut and browse for the file. After adding the short-cut you can start the Annotator by clicking on the desktop icon.
 
 
 
-
-## Installation
+## Installation for the use in Console
 
 
 
