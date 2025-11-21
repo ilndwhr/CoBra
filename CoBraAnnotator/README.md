@@ -22,9 +22,9 @@ On integration:
 
 
 
-The annotator inserts the annotated span line and constituent lines into the sentence from the input text field, while keeping user-entered IDs and heads exactly as entered. It updates subsequent token IDs and heads only after the inserted span according to the selected number of constituents. There is an Option to clear all fields and resetting defaults (start ID=0, constituents=3, renumbering=on) after a completed annotation.The output window shows the annotated sentence, with a 'Copy to Clipboard'-button for easy insertion back into your dataset.
+The annotator inserts the annotated span line and constituent lines into the sentence from the input text field, while keeping user-entered IDs and heads exactly as entered. It updates subsequent token IDs and heads only for IDs/heads referring to IDs after the inserted span according to the selected number of constituents. There is an option to clear all fields and resetting defaults (start ID=0, constituents=3, renumbering=on) after a completed annotation. The output window shows the annotated sentence, with a 'Copy to Clipboard'-button for easy insertion back into your dataset.
 
-## Installation for the use as Application with .exe
+## Installation for the use as application with .exe
 
 
 Download the CoBraAnnotator.exe file and open by clicking on the file.
@@ -86,7 +86,7 @@ Paste a single .conllu-parsed sentence into the input text box at the top.
 
 
 
-Enter the start token ID of the identified compound (Default: 5).
+Enter the start token ID of the identified compound (Default: 0). If you don not enter an ID the tool will show the error message, that the token ID '0' could not be found.
 
 
 
@@ -110,7 +110,7 @@ Create empty entry lines for each constituent (with 10 CoNLL-U columns).
 
 
 
-Pre-fill the UPOS, XPOS and FEATS columns with the inherited annotations from the parent compound.
+Pre-fill the UPOS, XPOS, FEATS and DEPREL columns with the inherited annotations from the parent compound and the new UD-extension tag.
 
 
 
@@ -122,7 +122,7 @@ Fill in the fields for each constituent as desired (form, lemmas, POS tags, feat
 
 
 
-All fields are editable an will generate a warning message if left empty.
+All fields are editable and will generate a warning message if left empty.
 
 
 
@@ -134,7 +134,7 @@ Click 'Apply and integrate' to insert the annotated span and constituent lines i
 
 
 
-Subsequent token and head IDs will be updated automatically.
+Subsequent token and head IDs / IDs and heads referring to IDs after the new span will be updated automatically.
 
 
 
@@ -154,5 +154,5 @@ Click 'Copy to Clipboard' to paste the annotated sentence into your main annotat
 
 
 
-Click Clear to reset everything, including defaults (start ID = 0, count = 3, renumbering = on).
+Click 'Clear' to reset everything, including defaults (start ID = 0, count = 3, renumbering = on).
 
