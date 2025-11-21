@@ -82,8 +82,11 @@ Paste a single .conllu-parsed sentence into the input text box at the top.
 
 
 
-#### 2\. Select Compound Position
+#### 2\. Select Compound Position and Annotation Mode
 
+
+
+Select whether you wish to annotate an existing span or create a new span by toggling between the two settings using the switch button on the top of the user console. For a pre-tokenized hyphenated span select the 'hyphenated existing span' option. The tool will then account for the additional tokens introduced by the hyphens.
 
 
 Enter the start token ID of the identified compound (Default: 0). If you don not enter an ID the tool will show the error message, that the token ID '0' could not be found.
