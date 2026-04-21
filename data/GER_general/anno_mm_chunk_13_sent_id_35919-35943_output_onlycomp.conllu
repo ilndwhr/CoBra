@@ -1,0 +1,100 @@
+# sent_id = 0
+1	_	_	ADP	APPR	_	3	case	_	_
+2	_	_	DET	PDAT	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	_
+4	_	_	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+5	_	_	VERB	VVPP	VerbForm=Part	0	root	_	_
+6	_	_	AUX	VAINF	VerbForm=Inf|Voice=Pass	5	aux:pass	_	_
+7	_	_	PUNCT	$,	_	19	punct	_	_
+8	_	_	SCONJ	KOUS	_	19	advmod	_	_
+9	_	_	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	19	obj	_	_
+10	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+11	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
+13	_	_	ADP	APPR	_	15	case	_	_
+14	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	12	nmod	_	_
+16	_	_	CCONJ	KON	_	18	cc	_	_
+17	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	15	conj	_	_
+19	_	_	VERB	VVINF	VerbForm=Inf	5	csubj:pass	_	_
+20	_	_	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	aux	_	_
+21	_	_	CCONJ	KON	_	22	cc	_	_
+22	_	_	VERB	VVINF	VerbForm=Inf	19	conj	_	_
+23	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
+24	_	_	PUNCT	$.	_	5	punct	_	_
+
+# sent_id = 1
+1	_	_	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+2	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	_	_	ADV	ADV	_	2	advmod	_	_
+4	_	_	ADV	PAV	PronType=Dem	2	advmod	_	_
+5	_	_	PUNCT	$,	_	20	punct	_	_
+6	_	_	ADP	APPR	_	8	case	_	_
+7	_	_	DET	PWAT	Case=Dat|Gender=Fem|Number=Plur|PronType=Int,Rel	8	det	_	_
+8	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	20	obl	_	_
+9	_	_	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+10	_	_	PUNCT	$,	_	16	punct	_	_
+11	_	_	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	16	nsubj	_	_
+12	_	_	ADP	KOKOM	_	14	case	_	_
+13	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	16	obl	_	_
+15	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	16	obj	_	_
+16	_	_	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+17	_	_	PUNCT	$,	_	8	punct	_	_
+18	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	_	_	PROPN	NN	Case=Dat|Gender=Masc|Number=Sing	20	obl:arg	_	_
+20	_	_	VERB	VVINF	VerbForm=Inf	2	ccomp	_	_
+21	_	_	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
+22	_	_	PUNCT	$.	_	2	punct	_	_
+
+# sent_id = 2
+1	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
+2	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	_	_	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	_	_	ADP	APPR	_	7	case	_	_
+5-7	Bundesgeschäftsführer	_	_	_	_	_	_	_	_
+5	Bundes	Bund	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	7	compound:nmod	_	semRel:MhasH
+6	geschäfts	Geschäft	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	7	compound:nmod	_	semRel:HforM
+7	führer	Führer	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+8	_	_	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	7	appos	_	_
+9	_	_	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	8	flat	_	_
+10	_	_	PUNCT	$.	_	3	punct	_	_
+
+# sent_id = 3
+1	_	_	PRON	PDS	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	2	nsubj	_	_
+2	_	_	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	_	_	CCONJ	KON	_	4	cc	_	_
+4	_	_	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	2	obl:arg	_	_
+5	_	_	CCONJ	KON	_	8	cc	_	_
+6	_	_	ADV	ADV	_	8	advmod	_	_
+7	_	_	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+8	_	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+9	_	_	CCONJ	KON	_	10	cc	_	_
+10	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	_	_	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	_	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+13	_	_	ADV	ADV	_	10	advmod	_	_
+14	_	_	PUNCT	$,	_	21	punct	_	_
+15	_	_	PRON	PRELS	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem,Rel	21	obl:arg	_	_
+16	_	_	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+17	_	_	ADP	APPR	_	18	case	_	_
+18	_	_	NUM	CARD	NumType=Card	21	obl	_	_
+19	_	_	ADP	APPR	_	20	case	_	_
+20	_	_	NUM	CARD	NumType=Card	21	obl	_	_
+21	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl	_	_
+22	_	_	PUNCT	$.	_	2	punct	_	_
+
+# sent_id = 4
+1	_	_	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+2	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj:pass	_	_
+3	_	_	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	_
+5	_	_	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
+6	_	_	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	5	flat	_	_
+7	_	_	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	aux:pass	_	_
+8	_	_	ADP	KOKOM	_	9	case	_	_
+9	_	_	ADJ	ADJD	Degree=Pos	10	amod	_	_
+10	_	_	VERB	VVPP	VerbForm=Part	0	root	_	_
+11	_	_	PUNCT	$.	_	10	punct	_	_
+

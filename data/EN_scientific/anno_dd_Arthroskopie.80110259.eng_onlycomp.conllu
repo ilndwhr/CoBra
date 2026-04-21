@@ -1,0 +1,110 @@
+# sent_id = 0
+1	_	_	DET	DT	PronType=Tot	2	det	_	start_char=838|end_char=842
+2	_	_	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=843|end_char=847
+3	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=848|end_char=851
+4	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=852|end_char=861
+5	_	_	ADP	IN	_	7	case	_	start_char=862|end_char=864
+6	_	_	CCONJ	CC	_	7	cc:preconj	_	start_char=865|end_char=869
+7	_	_	NOUN	NNS	Number=Plur	4	obl	_	start_char=870|end_char=876
+8	_	_	ADP	IN	_	9	case	_	start_char=877|end_char=880
+9	_	_	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No|start_char=881|end_char=891
+10	_	_	PUNCT	.	_	4	punct	_	start_char=891|end_char=892
+
+# sent_id = 1
+1	_	_	ADJ	JJ	Degree=Pos	2	amod	_	start_char=893|end_char=903
+2	_	_	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=904|end_char=908
+3	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=909|end_char=917
+4	_	_	NOUN	NN	Number=Sing	3	obj	_	start_char=918|end_char=922
+5	_	_	CCONJ	CC	_	6	cc	_	start_char=923|end_char=926
+6	_	_	NOUN	NN	Number=Sing	4	conj	_	start_char=927|end_char=935
+7	_	_	ADP	IN	_	9	case	_	start_char=936|end_char=939
+8	_	_	ADJ	JJ	Degree=Pos	9	amod	_	start_char=940|end_char=945
+9	_	_	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No|start_char=946|end_char=956
+10	_	_	PUNCT	.	_	3	punct	_	start_char=956|end_char=957
+
+# sent_id = 2
+1	_	_	NOUN	NNS	Number=Plur	3	nsubj:pass	_	start_char=958|end_char=962
+2	_	_	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=963|end_char=967
+3	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=968|end_char=977
+4	_	_	ADP	IN	_	6	case	_	start_char=978|end_char=980
+5	_	_	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=981|end_char=984
+6	_	_	PROPN	NNP	Number=Sing	3	obl:agent	_	start_char=985|end_char=990
+7	_	_	CCONJ	CC	_	11	cc	_	start_char=991|end_char=994
+8	_	_	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=995|end_char=998
+9	_	_	PROPN	NNP	Number=Sing	11	compound	_	start_char=999|end_char=1005
+10	_	_	NOUN	NN	Number=Sing	11	compound	_	start_char=1006|end_char=1013
+11	_	_	NOUN	NN	Number=Sing	6	conj	_	start_char=1014|end_char=1020
+12	_	_	CCONJ	CC	_	16	cc	_	start_char=1021|end_char=1024
+13	_	_	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=1025|end_char=1028
+14	demerit	demerit	NOUN	NN	Number=Sing	15	compound:nmod	_	semRel:HisM|start_char=1029|end_char=1036
+15	point	point	NOUN	NN	Number=Sing	16	compound:nmod	_	semRel:HforM|start_char=1029|end_char=1036
+16	system	system	NOUN	NN	Number=Sing	6	conj	_	start_char=1029|end_char=1036
+17	_	_	ADP	IN	_	18	case	_	start_char=1050|end_char=1052
+18	_	_	PROPN	NNP	Number=Sing	16	nmod	_	start_char=1053|end_char=1061
+19	_	_	CCONJ	CC	_	20	cc	_	start_char=1062|end_char=1065
+20	_	_	PROPN	NNP	Number=Sing	18	conj	_	start_char=1066|end_char=1072
+21	_	_	SCONJ	IN	_	22	mark	_	start_char=1073|end_char=1075
+22	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	start_char=1076|end_char=1084
+23	_	_	ADP	IN	_	24	case	_	start_char=1085|end_char=1087
+24	_	_	PROPN	NNP	Number=Sing	22	obl:agent	_	start_char=1088|end_char=1097
+25	_	_	X	FW	Foreign=Yes	26	cc	_	start_char=1098|end_char=1100
+26	_	_	PROPN	NNP	Number=Sing	24	conj	_	SpaceAfter=No|start_char=1101|end_char=1103
+27	_	_	PUNCT	.	_	3	punct	_	start_char=1103|end_char=1104
+
+# sent_id = 3
+1	_	_	ADV	RB	_	2	advmod	_	start_char=1105|end_char=1110
+2	_	_	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	_	SpaceAfter=No|start_char=1111|end_char=1113
+3	_	_	SYM	NN	Number=Sing	7	nsubj	_	start_char=1113|end_char=1114
+4	_	_	ADP	IN	_	6	case	_	start_char=1115|end_char=1117
+5	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=1118|end_char=1121
+6	_	_	NOUN	NNS	Number=Plur	3	nmod	_	start_char=1122|end_char=1130
+7	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=1131|end_char=1137
+8	_	_	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=1138|end_char=1140
+9	_	_	ADJ	JJ	Degree=Pos	12	amod	_	start_char=1141|end_char=1150
+10	_	_	CCONJ	CC	_	11	cc	_	start_char=1151|end_char=1153
+11	_	_	ADJ	JJ	Degree=Pos	9	conj	_	start_char=1154|end_char=1158
+12	_	_	NOUN	NN	Number=Sing	7	obj	_	SpaceAfter=No|start_char=1159|end_char=1165
+13	_	_	PUNCT	:	_	17	punct	_	start_char=1165|end_char=1166
+14	_	_	ADV	RB	_	15	advmod	_	start_char=1167|end_char=1172
+15	_	_	NUM	CD	NumForm=Digit|NumType=Card	16	nummod	_	SpaceAfter=No|start_char=1173|end_char=1175
+16	_	_	SYM	NN	Number=Sing	17	nsubj	_	start_char=1175|end_char=1176
+17	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	start_char=1177|end_char=1180
+18	_	_	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=1181|end_char=1182
+19	_	_	ADJ	JJ	Degree=Pos	20	amod	_	start_char=1183|end_char=1187
+20	_	_	NOUN	NN	Number=Sing	17	obj	_	SpaceAfter=No|start_char=1188|end_char=1194
+21	_	_	PUNCT	.	_	7	punct	_	start_char=1194|end_char=1195
+
+# sent_id = 4
+1	_	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|start_char=1196|end_char=1203
+2	_	_	PUNCT	,	_	1	punct	_	start_char=1203|end_char=1204
+3	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=1205|end_char=1207
+4	_	_	AUX	MD	VerbForm=Fin	5	aux	_	start_char=1208|end_char=1212
+5	_	_	VERB	VB	VerbForm=Inf	0	root	_	start_char=1213|end_char=1220
+6	_	_	SCONJ	IN	_	10	mark	_	start_char=1221|end_char=1225
+7	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=1226|end_char=1228
+8	_	_	AUX	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	cop	_	start_char=1229|end_char=1233
+9	_	_	PART	RB	Polarity=Neg	10	advmod	_	start_char=1234|end_char=1237
+10	_	_	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=1238|end_char=1242
+11	_	_	PART	TO	_	12	mark	_	start_char=1243|end_char=1245
+12	_	_	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=1246|end_char=1252
+13	_	_	NUM	CD	NumForm=Word|NumType=Card	16	nummod	_	start_char=1253|end_char=1256
+14	_	_	NOUN	NN	Number=Sing	16	compound	_	SpaceAfter=No|start_char=1257|end_char=1259
+15	_	_	PUNCT	HYPH	_	14	punct	_	SpaceAfter=No|start_char=1259|end_char=1260
+16	_	_	NOUN	NN	Number=Sing	12	obj	_	start_char=1260|end_char=1268
+17	_	_	ADP	IN	_	19	case	_	start_char=1269|end_char=1274
+18	_	_	ADJ	JJ	Degree=Pos	19	amod	_	start_char=1275|end_char=1287
+19	_	_	NOUN	NN	Number=Sing	12	obl	_	start_char=1288|end_char=1292
+20	_	_	CCONJ	CC	_	21	cc	_	start_char=1293|end_char=1296
+21	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	conj	_	start_char=1297|end_char=1300
+22	_	_	PART	TO	_	23	mark	_	start_char=1301|end_char=1303
+23	_	_	VERB	VB	VerbForm=Inf	21	xcomp	_	start_char=1304|end_char=1310
+24	_	_	ADP	IN	_	27	case	_	start_char=1311|end_char=1313
+25	_	_	DET	DT	Definite=Ind|PronType=Art	27	det	_	start_char=1314|end_char=1315
+26	_	_	ADJ	JJ	Degree=Pos	27	amod	_	start_char=1316|end_char=1325
+27	_	_	NOUN	NN	Number=Sing	23	obl	_	start_char=1326|end_char=1335
+28	_	_	ADP	IN	_	31	case	_	start_char=1336|end_char=1340
+29	_	_	ADJ	JJ	Degree=Pos	31	amod	_	start_char=1341|end_char=1351
+30	_	_	ADJ	JJ	Degree=Pos	31	amod	_	start_char=1352|end_char=1360
+31	_	_	NOUN	NNS	Number=Plur	23	obl	_	SpaceAfter=No|start_char=1361|end_char=1370
+32	_	_	PUNCT	.	_	5	punct	_	start_char=1370|end_char=1371
+

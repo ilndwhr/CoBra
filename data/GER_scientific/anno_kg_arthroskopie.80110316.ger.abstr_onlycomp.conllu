@@ -1,0 +1,65 @@
+# sent_id = 0
+1	_	_	ADP	ADV	_	4	case	_	start_char=0|end_char=6
+2	_	_	ADP	APPR	_	4	case	_	start_char=7|end_char=10
+3	_	_	NUM	CARD	NumType=Card	4	nummod	_	start_char=11|end_char=12
+4	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	start_char=13|end_char=24
+5	_	_	VERB	VVFIN	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=25|end_char=34
+6	_	_	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=35|end_char=38
+7	_	_	ADP	APPR	_	9	case	_	start_char=39|end_char=42
+8	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	9	det	_	start_char=43|end_char=48
+9	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	start_char=49|end_char=63
+10	_	_	CCONJ	KON	_	13	cc	_	start_char=64|end_char=67
+11	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	13	det	_	start_char=68|end_char=73
+12	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=74|end_char=88
+13	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	conj	_	start_char=89|end_char=107
+14	_	_	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=108|end_char=111
+15	_	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=112|end_char=127
+16	_	_	ADP	KOKOM	_	19	case	_	start_char=128|end_char=131
+17	_	_	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	19	amod	_	start_char=132|end_char=139
+18	_	_	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	19	amod	_	start_char=140|end_char=150
+19	_	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	5	obl	_	start_char=151|end_char=165
+20	_	_	ADP	APPR	_	24	case	_	start_char=166|end_char=170
+21	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=171|end_char=191
+22-24	Kniegelenkersatz	_	_	_	_	_	_	_	SpaceAfter=No|start_char=192|end_char=208
+22	Knie	Knie	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	23	compound:nmod	_	semRel:MisH
+23	gelenk	Gelenk	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	24	compound:nmod	_	semRel:MhasH
+24	ersatz	Ersatz	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	19	nmod	_	_
+25	_	_	PUNCT	$.	_	5	punct	_	start_char=208|end_char=209
+
+# sent_id = 1
+1	_	_	DET	PIAT	Case=Nom|Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	3	det	_	start_char=210|end_char=215
+2	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	start_char=216|end_char=230
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	start_char=231|end_char=244
+4	_	_	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=245|end_char=251
+5	_	_	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	4	obj	_	start_char=252|end_char=256
+6	_	_	CCONJ	KON	_	7	cc	_	start_char=257|end_char=262
+7	_	_	ADJ	ADJD	Degree=Pos	4	advmod	_	SpaceAfter=No|start_char=263|end_char=271
+8	_	_	PUNCT	$,	_	9	punct	_	start_char=271|end_char=272
+9	_	_	ADJ	ADJD	Degree=Pos	7	conj	_	start_char=273|end_char=286
+10	_	_	ADV	ADV	_	13	advmod	_	start_char=287|end_char=291
+11	_	_	ADP	APPR	_	13	case	_	start_char=292|end_char=297
+12	_	_	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	13	amod	_	start_char=298|end_char=309
+13	_	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	15	obl	_	start_char=310|end_char=319
+14	_	_	ADJ	ADJD	Degree=Pos	15	xcomp	_	start_char=320|end_char=326
+15	_	_	VERB	VVINF	VerbForm=Inf	4	xcomp	_	SpaceAfter=No|start_char=327|end_char=335
+16	_	_	PUNCT	$.	_	4	punct	_	start_char=335|end_char=336
+
+# sent_id = 2
+1	_	_	ADP	APPR	_	5	case	_	start_char=337|end_char=342
+2	_	_	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	5	det	_	start_char=343|end_char=347
+3-5	Kniegelenkarthroskopie	_	_	_	_	_	_	_	start_char=348|end_char=370
+3	Knie	Knie	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	4	compound:nmod	_	semRel:MisH
+4	gelenk	Gelenk	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	5	compound:nmod	_	semRel:HlocationisM
+5	arthroskopie	Arthroskopie	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	15	nmod	_	_
+6	_	_	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=371|end_char=375
+7	_	_	CCONJ	KON	_	9	cc	_	start_char=376|end_char=382
+8	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=383|end_char=386
+9	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=387|end_char=404
+10	_	_	CCONJ	KON	_	14	cc	_	start_char=405|end_char=408
+11	_	_	ADV	ADV	_	14	advmod	_	start_char=409|end_char=413
+12	_	_	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	14	det	_	start_char=414|end_char=418
+13	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=419|end_char=429
+14	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	start_char=430|end_char=438
+15	_	_	ADJ	ADJD	Degree=Pos	0	root	_	SpaceAfter=No|start_char=439|end_char=446
+16	_	_	PUNCT	$.	_	15	punct	_	SpacesAfter=\s\s\n|start_char=446|end_char=447
+

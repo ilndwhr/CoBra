@@ -1,0 +1,108 @@
+# sent_id = 0
+1	_	_	NOUN	NN	Number=Sing	2	compound	_	_
+2	_	_	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	_	_	ADP	IN	_	5	case	_	_
+5	_	_	NOUN	NN	Number=Sing	3	obl	_	_
+6	_	_	SCONJ	IN	_	10	mark	_	_
+7	_	_	NOUN	NNS	Number=Plur	9	nmod:poss	_	_
+8	_	_	PART	POS	_	7	case	_	_
+9	_	_	NOUN	NN	Number=Sing	10	nsubj	_	_
+10	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+11	_	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 1
+1	_	_	ADP	IN	_	2	case	_	_
+2	_	_	PROPN	NNP	Number=Sing	0	root	_	_
+3	_	_	ADP	IN	_	5	case	_	_
+4	_	_	PROPN	NNP	Number=Sing	5	compound	_	_
+5	_	_	PROPN	NNP	Number=Sing	2	nmod	_	_
+
+# sent_id = 2
+1	_	_	PROPN	NNP	Number=Sing	2	compound	_	_
+2	_	_	PROPN	NNP	Number=Sing	7	nmod:poss	_	_
+3	_	_	PART	POS	_	2	case	_	_
+4	_	_	ADJ	JJ	Degree=Pos	7	amod	_	_
+5	security	security	NOUN	NN	Number=Sing	6	compound:nmod	_	semRel:HforM|_
+6	police	police	NOUN	NN	Number=Sing	7	compound:nmod	_	semRel:HderivedfromM|_
+7	apparatus	apparatus	NOUN	NN	Number=Sing	17	nsubj	_	_|_
+8	_	_	PUNCT	,	_	12	punct	_	_
+9	_	_	SCONJ	IN	_	12	case	_	_
+10	_	_	DET	DT	Definite=Ind|PronType=Art	12	det	_	_
+11	_	_	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	_	_	NOUN	NN	Number=Sing	7	nmod	_	_
+13	_	_	ADP	IN	_	15	case	_	_
+14	_	_	DET	DT	Definite=Ind|PronType=Art	15	det	_	_
+15	_	_	NOUN	NN	Number=Sing	12	nmod	_	_
+16	_	_	PUNCT	,	_	7	punct	_	_
+17	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	_	_	SCONJ	IN	_	19	mark	_	_
+19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	17	advcl	_	_
+20	_	_	DET	DT	Definite=Def|PronType=Art	22	det	_	_
+21	_	_	ADJ	JJ	Degree=Pos	22	amod	_	_
+22	_	_	NOUN	NN	Number=Sing	19	xcomp	_	_
+23	_	_	ADP	IN	_	25	case	_	_
+24	_	_	ADJ	JJ	Degree=Pos	25	amod	_	_
+25	_	_	NOUN	NN	Number=Sing	22	nmod	_	_
+26	_	_	PART	TO	_	27	mark	_	_
+27	_	_	VERB	VB	VerbForm=Inf	19	xcomp	_	_
+28	_	_	ADP	IN	_	36	case	_	_
+29	_	_	DET	DT	Definite=Def|PronType=Art	30	det	_	_
+30	_	_	NOUN	NN	Number=Sing	36	nmod:poss	_	_
+31	_	_	PART	POS	_	30	case	_	_
+32	_	_	PUNCT	``	_	33	punct	_	_
+33	_	_	NOUN	NNS	Number=Plur	34	compound	_	_
+34	_	_	NOUN	NN	Number=Sing	36	nmod:poss	_	_
+35	_	_	PART	POS	_	30	case	_	_
+36	_	_	NOUN	NN	Number=Sing	27	obl	_	_
+37	_	_	PUNCT	.	_	17	punct	_	_
+
+# sent_id = 3
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+2	_	_	NOUN	NN	Number=Sing	3	compound	_	_
+3	_	_	NOUN	NN	Number=Sing	18	nsubj	_	_
+4	_	_	ADP	IN	_	6	case	_	_
+5	_	_	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	_	_	PROPN	NNP	Number=Sing	3	nmod	_	_
+7	_	_	ADP	IN	_	9	case	_	_
+8	_	_	ADJ	NNP	Degree=Pos	9	amod	_	_
+9	_	_	PROPN	NNP	Number=Sing	6	nmod	_	_
+10	_	_	PUNCT	,	_	12	punct	_	_
+11	_	_	PRON	WDT	PronType=Rel	12	nsubj	_	_
+12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+13	_	_	NOUN	NNS	Number=Plur	12	obj	_	_
+14	_	_	ADP	IN	_	16	case	_	_
+15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	_	_
+16	_	_	NOUN	NN	Number=Sing	12	obl	_	_
+17	_	_	PUNCT	,	_	3	punct	_	_
+18	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	_	_	ADP	IN	_	22	case	_	_
+20	_	_	DET	DT	Definite=Ind|PronType=Art	22	det	_	_
+21	_	_	ADJ	JJ	Degree=Pos	22	amod	_	_
+22	_	_	NOUN	NN	Number=Sing	18	obl	_	_
+23	_	_	PUNCT	,	_	24	punct	_	_
+24	_	_	NOUN	NNS	Number=Plur	22	appos	_	_
+25	_	_	ADP	IN	_	27	case	_	_
+26	_	_	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	nmod:poss	_	_
+27	_	_	NOUN	NN	Number=Sing	24	nmod	_	_
+28	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	_
+29	_	_	ADP	IN	_	31	case	_	_
+30	_	_	DET	DT	Definite=Def|PronType=Art	31	det	_	_
+31	_	_	NOUN	NNS	Number=Plur	28	obl	_	_
+32	_	_	ADV	RB	_	33	advmod	_	_
+33	_	_	ADV	RB	_	28	advmod	_	_
+34	_	_	PUNCT	.	_	18	punct	_	_
+
+# sent_id = 4
+1	_	_	CCONJ	CC	_	10	cc	_	_
+2	_	_	ADP	IN	_	4	case	_	_
+3	_	_	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	_	_	NOUN	NN	Number=Sing	10	obl	_	_
+5	_	_	PUNCT	,	_	4	punct	_	_
+6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	_	_	NOUN	NN	Number=Sing	10	nsubj	_	_
+8	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	_	_	ADV	RB	_	10	advmod	_	_
+10	_	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+11	_	_	PUNCT	.	_	10	punct	_	_
+

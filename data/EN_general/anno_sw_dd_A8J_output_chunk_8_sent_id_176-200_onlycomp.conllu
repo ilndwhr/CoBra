@@ -1,0 +1,103 @@
+# sent_id = 0
+1	_	_	PROPN	NNP	Number=Sing	4	nsubj	_	_
+2	_	_	PROPN	NNP	Number=Sing	1	flat	_	_
+3	_	_	AUX	MD	VerbForm=Fin	4	aux	_	_
+4	_	_	VERB	VB	VerbForm=Inf	0	root	_	_
+5	_	_	DET	DT	PronType=Ind	7	det	_	_
+6	_	_	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	_	_	NOUN	NNS	Number=Plur	4	obj	_	_
+8	_	_	PUNCT	,	_	12	punct	_	_
+9	_	_	CCONJ	CC	_	12	cc	_	_
+10	_	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	_	_	ADV	RB	_	12	advmod	_	_
+12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	_	_	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	_	_	NOUN	NNS	Number=Plur	12	obj	_	_
+15	_	_	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 1
+1	_	_	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+2	_	_	ADJ	JJ	Degree=Pos	7	amod	_	_
+3	_	_	NOUN	NN	Number=Sing	7	compound	_	_
+4	_	_	CCONJ	CC	_	7	cc	_	_
+5	_	_	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	_	_	NOUN	NN	Number=Sing	7	compound	_	_
+7	_	_	NOUN	NNS	Number=Plur	9	nsubj	_	_
+8	_	_	ADV	RB	_	9	advmod	_	_
+9	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	_	_	DET	DT	PronType=Neg	11	det	_	_
+11	_	_	NOUN	NN	Number=Sing	9	obj	_	_
+12	_	_	PUNCT	.	_	9	punct	_	_
+
+# sent_id = 2
+1	_	_	CCONJ	CC	Polarity=Neg	6	cc:preconj	_	_
+2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	_	_	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+4	State	State	PROPN	NNP	Number=Sing	6	compound:nmod	_	semRel:MhasH
+5	Planning	Planning	PROPN	NNP	Number=Sing	6	compound:nmod	_	semRel:HforM
+6	Commission	Commission	PROPN	NNP	Number=Sing	2	nsubj	_	_
+7	_	_	PUNCT	,	_	10	punct	_	_
+8	_	_	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+9	_	_	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	_	_	NOUN	NN	Number=Sing	6	appos	_	_
+11	_	_	ADJ	JJ	Degree=Pos	10	amod	_	_
+12	_	_	ADP	IN	_	15	case	_	_
+13	_	_	DET	DT	Definite=Def|PronType=Art	15	det	_	_
+14	_	_	ADJ	JJ	Degree=Pos	15	amod	_	_
+15	_	_	NOUN	NN	Number=Sing	11	obl	_	_
+16	_	_	ADP	IN	_	18	case	_	_
+17	_	_	DET	DT	Definite=Def|PronType=Art	18	det	_	_
+18	_	_	NOUN	NN	Number=Sing	15	nmod	_	_
+19	_	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 3
+1	_	_	ADP	IN	_	5	case	_	_
+2	_	_	NOUN	NN	Number=Sing	5	compound	_	_
+3	_	_	CCONJ	CC	_	4	cc	_	_
+4	_	_	NOUN	NN	Number=Sing	2	conj	_	_
+5	_	_	NOUN	NNS	Number=Plur	19	obl	_	_
+6	_	_	ADP	IN	_	9	case	_	_
+7	_	_	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+8	_	_	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	_	_	NOUN	NNS	Number=Ptan|NumForm=Combi|NumType=Card	5	nmod	_	_
+10	_	_	VERB	VBG	VerbForm=Ger	5	acl	_	_
+11	_	_	ADJ	JJ	Degree=Pos	10	obj	_	_
+12	_	_	ADP	IN	_	15	case	_	_
+13	_	_	PROPN	NNP	Number=Sing	15	nmod:poss	_	_
+14	_	_	PART	POS	_	13	case	_	_
+15	_	_	NOUN	NN	Number=Sing	11	nmod	_	_
+16	_	_	PUNCT	,	_	5	punct	_	_
+17	_	_	PRON	NN	Number=Sing|PronType=Neg	19	nsubj	_	_
+18	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	_	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+20	_	_	ADP	IN	_	22	case	_	_
+21	_	_	DET	DT	Definite=Def|PronType=Art	22	det	_	_
+22	_	_	NOUN	NN	Number=Sing	19	obl	_	_
+23	_	_	ADP	IN	_	25	case	_	_
+24	_	_	DET	DT	Definite=Def|PronType=Art	25	det	_	_
+25	_	_	NOUN	NN	Number=Sing	22	nmod	_	_
+26	_	_	PUNCT	.	_	19	punct	_	_
+
+# sent_id = 4
+1	_	_	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	_	_	NOUN	NNS	Number=Plur	9	nsubj:pass	_	_
+3	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+4	_	_	PUNCT	,	_	3	punct	_	_
+5	_	_	ADV	RB	_	9	advmod	_	_
+6	_	_	PUNCT	,	_	5	punct	_	_
+7	_	_	ADV	RB	_	9	advmod	_	_
+8	_	_	AUX	VBN	Tense=Past|VerbForm=Part	9	aux:pass	_	_
+9	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+10	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+11	_	_	NOUN	NN	Number=Sing	9	obj	_	_
+12	_	_	ADP	IN	_	14	case	_	_
+13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	_	_
+14	_	_	NOUN	NN	Number=Sing	9	obl:agent	_	_
+15	_	_	ADP	IN	_	16	case	_	_
+16	_	_	NOUN	NNS	Number=Plur	14	nmod	_	_
+17	_	_	ADP	IN	_	20	case	_	_
+18	_	_	DET	DT	Definite=Def|PronType=Art	20	det	_	_
+19	_	_	PROPN	NNP	Number=Sing	20	compound	_	_
+20	_	_	PROPN	NNP	Number=Sing	16	nmod	_	_
+21	_	_	PUNCT	.	_	9	punct	_	_
+

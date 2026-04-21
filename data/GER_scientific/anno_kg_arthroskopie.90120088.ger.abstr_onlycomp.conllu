@@ -1,0 +1,111 @@
+# sent_id = 0
+1	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=0|end_char=3
+2	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=4|end_char=12
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=13|end_char=25
+4	_	_	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=26|end_char=29
+5-7	Lendenwirbelsäule	_	_	_	_	_	_	_	start_char=30|end_char=47
+5	Lenden	Lende	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	6	compound:nmod	_	semRel:MhasH
+6	wirbel	Wirbel	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	7	compound:nmod	_	semRel:HderivedfromM
+7	säule	Säule	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+8	_	_	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=48|end_char=51
+9	_	_	ADP	APPR	_	11	case	_	start_char=52|end_char=55
+10	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	start_char=56|end_char=66
+11	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	13	nmod	_	start_char=67|end_char=79
+12	_	_	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	13	det	_	start_char=80|end_char=83
+13	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|start_char=84|end_char=100
+14	_	_	PUNCT	$.	_	13	punct	_	start_char=100|end_char=101
+
+# sent_id = 1
+1	_	_	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	3	det	_	start_char=102|end_char=105
+2	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	start_char=106|end_char=115
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	14	obj	_	start_char=116|end_char=127
+4	_	_	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=128|end_char=131
+5	_	_	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=132|end_char=148
+6	_	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=149|end_char=158
+7	_	_	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=159|end_char=165
+8	_	_	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	14	obj	_	start_char=166|end_char=170
+9	_	_	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	12	det	_	start_char=171|end_char=174
+10-12	Wirbelsäulenoperateure	_	_	_	_	_	_	_	start_char=175|end_char=197
+10	Wirbel	Wirbel	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	11	compound:nmod	_	semRel:HderivedfromM
+11	säulen	Säule	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	12	compound:nmod	_	semRel:HlocationisM
+12	operateure	Operateur	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	14	nsubj	_	_
+13	_	_	ADJ	ADJD	Degree=Pos	14	xcomp	_	start_char=198|end_char=205
+14	_	_	VERB	VVINF	VerbForm=Inf	0	root	_	SpaceAfter=No|start_char=206|end_char=212
+15	_	_	PUNCT	$.	_	14	punct	_	start_char=212|end_char=213
+
+# sent_id = 2
+1	_	_	ADJ	ADJD	Degree=Pos	14	advmod	_	start_char=214|end_char=225
+2	_	_	ADP	APPR	_	4	case	_	start_char=226|end_char=229
+3	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=230|end_char=233
+4	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	start_char=234|end_char=241
+5-6	_	_	_	_	_	_	_	_	start_char=242|end_char=244
+5	_	_	ADP	APPR	_	7	case	_	_
+6	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	start_char=245|end_char=253
+8	_	_	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	start_char=254|end_char=260
+9	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	start_char=261|end_char=264
+10	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	start_char=265|end_char=283
+11-12	_	_	_	_	_	_	_	_	start_char=284|end_char=286
+11	_	_	ADP	APPR	_	14	case	_	_
+12	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+13	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=287|end_char=295
+14	_	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	0	root	_	start_char=296|end_char=300
+15	_	_	AUX	VAINF	VerbForm=Inf	14	cop	_	SpaceAfter=No|start_char=301|end_char=305
+16	_	_	PUNCT	$.	_	15	punct	_	start_char=305|end_char=306
+
+# sent_id = 3
+1	_	_	ADV	PAV	_	2	advmod	_	start_char=307|end_char=313
+2	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=314|end_char=320
+3	_	_	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	start_char=321|end_char=325
+4	_	_	ADV	ADV	_	2	advmod	_	start_char=326|end_char=335
+5	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	start_char=336|end_char=339
+6	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No|start_char=340|end_char=347
+7	_	_	PUNCT	$.	_	2	punct	_	start_char=347|end_char=348
+
+# sent_id = 4
+1	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	start_char=349|end_char=352
+2	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=353|end_char=367
+3	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=368|end_char=375
+4	_	_	X	ADV	_	10	case	_	start_char=376|end_char=380
+5	_	_	ADP	APPR	_	10	case	_	start_char=381|end_char=384
+6	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	10	det	_	start_char=385|end_char=390
+7	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=391|end_char=401
+8-10	Wirbelsäulenchirurgen	_	_	_	_	_	_	_	SpaceAfter=No|start_char=402|end_char=423
+8	Wirbel	Wirbel	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	9	compound:nmod	_	semRel:HderivedfromM
+9	säulen	Säule	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	10	compound:nmod	_	semRel:HforM
+10	chirurgen	Chirurg	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	_
+11	_	_	PUNCT	$,	_	18	punct	_	start_char=423|end_char=424
+12	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	18	det	_	start_char=425|end_char=430
+13	_	_	ADP	APPR	_	16	case	_	start_char=431|end_char=433
+14	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	start_char=434|end_char=437
+15	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=438|end_char=454
+16	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	17	nmod	_	start_char=455|end_char=464
+17	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=465|end_char=475
+18	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	10	appos	_	start_char=476|end_char=494
+19	_	_	CCONJ	KON	_	22	cc	_	start_char=495|end_char=498
+20	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	22	det	_	start_char=499|end_char=504
+21	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	start_char=505|end_char=512
+22	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No|start_char=513|end_char=523
+23	_	_	PUNCT	$.	_	3	punct	_	start_char=523|end_char=524
+
+# sent_id = 5
+1	_	_	ADJ	ADJD	Degree=Pos	17	advmod	_	start_char=525|end_char=542
+2	_	_	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=543|end_char=546
+3	_	_	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	17	obj	_	start_char=547|end_char=551
+4	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=552|end_char=555
+5	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	start_char=556|end_char=572
+6	_	_	PUNCT	$(	_	9	punct	_	start_char=573|end_char=574
+7	_	_	ADP	APPR	_	9	case	_	start_char=575|end_char=578
+8	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=579|end_char=586
+9	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	start_char=587|end_char=603
+10	_	_	CCONJ	KON	_	15	cc	_	start_char=604|end_char=607
+11	_	_	ADP	APPR	_	15	case	_	start_char=608|end_char=611
+12	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=612|end_char=626
+13-15	Wirbelsäuleninstrumentation	_	_	_	_	_	_	_	start_char=627|end_char=654
+13	Wirbel	Wirbel	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	14	compound:nmod	_	semRel:HderivedfromM
+14	säulen	Säule	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	15	compound:nmod	_	semRel:HlocationisM
+15	instrumentation	Instrumentation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	conj	_	_
+16	_	_	PUNCT	$(	_	15	punct	_	start_char=655|end_char=656
+17	_	_	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No|start_char=657|end_char=664
+18	_	_	PUNCT	$.	_	17	punct	_	SpacesAfter=\s\s\n|start_char=664|end_char=665
+

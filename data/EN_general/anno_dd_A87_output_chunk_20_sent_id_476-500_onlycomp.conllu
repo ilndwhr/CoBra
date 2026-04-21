@@ -1,0 +1,78 @@
+# sent_id = 0
+1	_	_	PUNCT	``	_	2	punct	_	_
+2	_	_	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+3	_	_	ADP	IN	_	2	compound:prt	_	_
+4	_	_	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	_	_	NOUN	NNS	Number=Ptan	2	obj	_	_
+6	_	_	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	_
+7	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
+8	_	_	ADP	RP	_	7	compound:prt	_	_
+9	_	_	PART	TO	_	10	mark	_	_
+10	_	_	VERB	VB	VerbForm=Inf	7	advcl	_	_
+11	_	_	ADP	IN	_	12	case	_	_
+12	_	_	NOUN	NN	Number=Sing	10	obl	_	_
+13	_	_	ADP	IN	_	14	case	_	_
+14	_	_	PROPN	NNP	Number=Sing	10	obl	_	_
+15	_	_	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 1
+1	_	_	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_
+2	_	_	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	_	_	VERB	VB	VerbForm=Inf	0	root	_	_
+4	_	_	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	_	_	ADJ	JJS	Degree=Sup	3	obj	_	_
+6	_	_	PUNCT	.	_	3	punct	_	_
+7	_	_	PUNCT	''	_	3	punct	_	_
+
+# sent_id = 2
+1	_	_	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+2	_	_	ADJ	JJ	Degree=Pos	5	amod	_	_
+3	_	_	PROPN	NNP	Number=Sing	5	compound	_	_
+4	_	_	NOUN	NN	Number=Sing	5	compound	_	_
+5	_	_	NOUN	NN	Number=Sing	6	nsubj	_	_
+6	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	_	_	ADP	IN	_	9	case	_	_
+8	_	_	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	_	_	NOUN	NN	Number=Sing	6	obl	_	_
+10	_	_	PUNCT	,	_	15	punct	_	_
+11	_	_	ADP	IN	_	15	case	_	_
+12	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
+13	cardboard	cardboard	NOUN	NN	Number=Sing	15	compound:nmod	_	semRel:HmadeofM|_
+14	polling	polling	NOUN	NN	Number=Sing	15	compound:nmod	_	semRel:HforM|_
+15	booths	booth	NOUN	NNS	Number=Plur	6	obl	_	_|_
+16	_	_	PUNCT	,	_	18	punct	_	_
+17	_	_	PART	TO	_	18	mark	_	_
+18	_	_	VERB	VB	VerbForm=Inf	6	advcl	_	_
+19	_	_	DET	DT	Definite=Def|PronType=Art	22	det	_	_
+20	_	_	NUM	CD	NumForm=Digit|NumType=Card	22	nummod	_	_
+21	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	amod	_	_
+22	_	_	NOUN	NNS	Number=Plur	18	obj	_	_
+23	_	_	ADP	IN	_	24	case	_	_
+24	_	_	PROPN	NNP	Number=Sing	22	nmod	_	_
+25	_	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 3
+1	_	_	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	_	_	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	_	_	PUNCT	,	_	2	punct	_	_
+4	_	_	PUNCT	,	_	2	punct	_	_
+5	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+6	_	_	ADJ	JJ	Degree=Pos	0	root	_	_
+7	_	_	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 4
+1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	_	_	AUX	MD	VerbForm=Fin	4	aux	_	_
+3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
+4	_	_	VERB	VB	VerbForm=Inf	0	root	_	_
+5	_	_	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	_	_	NOUN	NN	Number=Sing	4	obj	_	_
+7	_	_	ADP	IN	_	9	case	_	_
+8	_	_	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	_	_	NOUN	NN	Number=Sing	6	nmod	_	_
+10	_	_	ADP	IN	_	13	case	_	_
+11	_	_	PROPN	NNP	Number=Sing	13	nmod:poss	_	_
+12	_	_	PART	POS	_	11	case	_	_
+13	_	_	NOUN	NN	Number=Sing	9	nmod	_	_
+14	_	_	PUNCT	.	_	4	punct	_	_
+

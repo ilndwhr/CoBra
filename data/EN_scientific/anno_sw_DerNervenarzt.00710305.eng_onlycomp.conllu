@@ -1,0 +1,100 @@
+# sent_id = 0
+1	_	_	ADP	IN	_	8	case	_	start_char=343|end_char=345
+2	_	_	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=346|end_char=347
+3	_	_	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	_	SpaceAfter=No|start_char=348|end_char=350
+4	_	_	PUNCT	HYPH	_	3	punct	_	SpaceAfter=No|start_char=350|end_char=351
+5	_	_	NOUN	NN	Number=Sing	7	compound	_	SpaceAfter=No|start_char=351|end_char=355
+6	_	_	PUNCT	HYPH	_	5	punct	_	SpaceAfter=No|start_char=355|end_char=356
+7	_	_	ADJ	JJ	Degree=Pos	8	amod	_	start_char=356|end_char=359
+8	_	_	NOUN	NN	Number=Sing	20	obl	_	SpaceAfter=No|start_char=360|end_char=363
+9	_	_	PUNCT	,	_	8	punct	_	start_char=363|end_char=364
+10	_	_	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=365|end_char=366
+11	_	_	NOUN	NN	Number=Sing	13	compound	_	SpaceAfter=No|start_char=367|end_char=372
+12	_	_	PUNCT	HYPH	_	11	punct	_	SpaceAfter=No|start_char=372|end_char=373
+13	_	_	NOUN	NN	Number=Sing	19	amod	_	SpaceAfter=No|start_char=373|end_char=382
+14	_	_	PUNCT	,	_	15	punct	_	start_char=382|end_char=383
+15	_	_	NOUN	NN	Number=Sing	13	conj	_	SpaceAfter=No|start_char=384|end_char=394
+16	_	_	PUNCT	,	_	19	punct	_	start_char=394|end_char=395
+17	_	_	VERB	VBG	VerbForm=Ger	19	amod	_	start_char=396|end_char=405
+18	_	_	NOUN	NN	Number=Sing	19	compound	_	start_char=406|end_char=409
+19	_	_	NOUN	NN	Number=Sing	20	nsubj	_	start_char=410|end_char=416
+20	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=417|end_char=428
+21	_	_	ADV	RB	_	20	advmod	_	start_char=429|end_char=439
+22	_	_	ADP	IN	_	23	case	_	start_char=440|end_char=445
+23	_	_	NOUN	NN	Number=Sing	20	obl	_	start_char=446|end_char=452
+24	_	_	CCONJ	CC	_	27	cc	_	start_char=453|end_char=456
+25	_	_	ADJ	JJ	Degree=Pos	27	amod	_	start_char=457|end_char=462
+26	_	_	NOUN	NN	Number=Sing	27	compound	_	start_char=463|end_char=470
+27	_	_	NOUN	NN	Number=Sing	23	conj	_	SpaceAfter=No|start_char=471|end_char=478
+28	_	_	PUNCT	.	_	20	punct	_	start_char=478|end_char=479
+
+# sent_id = 1
+1	_	_	NUM	CD	NumForm=Word|NumType=Card	2	nummod	_	start_char=480|end_char=483
+2	_	_	NOUN	NN	Number=Sing	3	obl:unmarked	_	start_char=484|end_char=488
+3	_	_	ADV	RBR	Degree=Cmp	7	advmod	_	SpaceAfter=No|start_char=489|end_char=494
+4	_	_	PUNCT	,	_	3	punct	_	start_char=494|end_char=495
+5	_	_	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=496|end_char=499
+6	_	_	NOUN	NN	Number=Sing	7	nsubj	_	start_char=500|end_char=505
+7	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=506|end_char=514
+8	_	_	ADP	IN	_	11	case	_	start_char=515|end_char=517
+9	_	_	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=518|end_char=521
+10	_	_	ADJ	JJ	Degree=Pos	11	amod	_	start_char=522|end_char=527
+11	_	_	NOUN	NN	Number=Sing	7	obl	_	start_char=528|end_char=532
+12	_	_	CCONJ	CC	_	14	cc	_	start_char=533|end_char=536
+13	_	_	ADV	RB	_	14	advmod	_	start_char=537|end_char=542
+14	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	start_char=543|end_char=552
+15	_	_	ADP	IN	_	17	case	_	start_char=553|end_char=558
+16	_	_	ADJ	JJ	Degree=Pos	17	amod	_	start_char=559|end_char=566
+17	_	_	NOUN	NN	Number=Sing	14	obl	_	SpaceAfter=No|start_char=567|end_char=574
+18	_	_	PUNCT	.	_	7	punct	_	start_char=574|end_char=575
+
+# sent_id = 2
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=576|end_char=579
+2	_	_	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	_	start_char=580|end_char=585
+3	_	_	NOUN	NN	Number=Sing	4	nsubj	_	start_char=586|end_char=592
+4	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=593|end_char=599
+5	_	_	NOUN	NNS	Number=Plur	4	obj	_	start_char=600|end_char=605
+6	_	_	ADP	IN	_	9	case	_	start_char=606|end_char=608
+7	_	_	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=609|end_char=610
+8	_	_	ADJ	JJ	Degree=Pos	9	amod	_	start_char=611|end_char=620
+9	_	_	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No|start_char=621|end_char=626
+10	_	_	PUNCT	,	_	17	punct	_	start_char=626|end_char=627
+11	_	_	ADV	RB	_	17	advmod	_	start_char=628|end_char=630
+12	_	_	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=631|end_char=632
+13	choroid	choroid	NOUN	NN	Number=Sing	14	compound:nmod	_	semRel:HderivedfromM|start_char=633|end_char=640
+14	plexus	plexus	NOUN	NN	Number=Sing	15	compound:nmod	_	semRel:HlocationisM|start_char=633|end_char=640
+15	papilloma	papilloma	NOUN	NN	Number=Sing	17	nsubj:pass	_	start_char=633|end_char=640
+16	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux:pass	_	start_char=658|end_char=661
+17	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	parataxis	_	start_char=662|end_char=671
+18	_	_	ADV	RB	_	17	advmod	_	SpaceAfter=No|start_char=672|end_char=681
+19	_	_	PUNCT	.	_	4	punct	_	start_char=681|end_char=682
+
+# sent_id = 3
+1	_	_	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=683|end_char=684
+2	_	_	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	_	SpaceAfter=No|start_char=685|end_char=687
+3	_	_	PUNCT	HYPH	_	2	punct	_	SpaceAfter=No|start_char=687|end_char=688
+4	_	_	NOUN	NN	Number=Sing	6	compound	_	SpaceAfter=No|start_char=688|end_char=692
+5	_	_	PUNCT	HYPH	_	4	punct	_	SpaceAfter=No|start_char=692|end_char=693
+6	_	_	ADJ	JJ	Degree=Pos	7	amod	_	start_char=693|end_char=696
+7	_	_	NOUN	NN	Number=Sing	8	nsubj	_	start_char=697|end_char=702
+8	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=703|end_char=712
+9	_	_	ADJ	JJ	Degree=Pos	12	amod	_	start_char=713|end_char=724
+10	_	_	ADJ	JJ	Degree=Pos	11	amod	_	start_char=725|end_char=734
+11	_	_	NOUN	NN	Number=Sing	12	compound	_	start_char=735|end_char=742
+12	_	_	NOUN	NN	Number=Sing	8	obj	_	SpaceAfter=No|start_char=743|end_char=754
+13	_	_	PUNCT	.	_	8	punct	_	start_char=754|end_char=755
+
+# sent_id = 4
+1	_	_	ADJ	JJ	Degree=Pos	2	amod	_	start_char=756|end_char=767
+2	_	_	NOUN	NN	Number=Sing	3	nsubj	_	start_char=768|end_char=779
+3	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=780|end_char=783
+4	_	_	ADP	IN	_	7	case	_	start_char=784|end_char=786
+5	_	_	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=787|end_char=788
+6	_	_	ADJ	JJ	Degree=Pos	7	amod	_	start_char=789|end_char=796
+7	_	_	NOUN	NN	Number=Sing	3	obl	_	start_char=797|end_char=806
+8	_	_	ADP	IN	_	11	case	_	start_char=807|end_char=809
+9	_	_	ADJ	JJ	Degree=Pos	11	amod	_	start_char=810|end_char=817
+10	_	_	ADJ	JJ	Degree=Pos	11	amod	_	start_char=818|end_char=829
+11	_	_	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No|start_char=830|end_char=840
+12	_	_	PUNCT	.	_	3	punct	_	start_char=840|end_char=841
+

@@ -1,0 +1,43 @@
+# sent_id = 0
+1	_	_	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	_	_	NOUN	NN	Number=Sing	14	nsubj	_	start_char=4|end_char=12
+3	_	_	ADP	IN	_	5	case	_	start_char=13|end_char=15
+4	_	_	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=16|end_char=19
+5	_	_	NOUN	NN	Number=Sing	2	nmod	_	start_char=20|end_char=31
+6	_	_	VERB	VBG	VerbForm=Ger	5	acl	_	start_char=32|end_char=40
+7	_	_	ADJ	JJ	Degree=Pos	8	amod	_	start_char=41|end_char=51
+8	_	_	NOUN	NNS	Number=Plur	6	obj	_	start_char=52|end_char=61
+9	_	_	ADP	IN	_	13	case	_	start_char=62|end_char=66
+10	_	_	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=67|end_char=68
+11	hospital	hospital	NOUN	NN	Number=Sing	12	compound:nmod	_	semRel:HforM|start_char=69|end_char=77
+12	order	order	NOUN	NN	Number=Sing	13	compound:nmod	_	semRel:HforM|start_char=78|end_char=83
+13	institution	institution	NOUN	NN	Number=Sing	6	obl	_	start_char=84|end_char=95
+14	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=96|end_char=103
+15	_	_	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=104|end_char=105
+16	_	_	NOUN	NN	Number=Sing	14	obj	_	start_char=106|end_char=109
+17	_	_	ADP	IN	_	23	case	_	start_char=110|end_char=112
+18	_	_	ADV	RB	_	19	advmod	_	start_char=113|end_char=117
+19	_	_	ADJ	JJ	Degree=Pos	23	amod	_	start_char=118|end_char=127
+20	_	_	CCONJ	CC	_	22	cc	_	start_char=128|end_char=131
+21	_	_	ADV	RB	Degree=Pos	22	advmod	_	start_char=132|end_char=136
+22	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	conj	_	start_char=137|end_char=146
+23	_	_	NOUN	NN	Number=Sing	16	nmod	_	start_char=147|end_char=155
+24	_	_	ADP	IN	_	27	case	_	start_char=156|end_char=162
+25	_	_	DET	DT	Definite=Def|PronType=Art	27	det	_	start_char=163|end_char=166
+26	_	_	ADJ	JJ	Degree=Pos	27	amod	_	start_char=167|end_char=175
+27	_	_	NOUN	NN	Number=Sing	23	nmod	_	SpaceAfter=No|start_char=176|end_char=184
+28	_	_	PUNCT	.	_	14	punct	_	start_char=184|end_char=185
+
+# sent_id = 1
+1	_	_	PRON	DT	Number=Sing|PronType=Dem	4	nsubj:pass	_	start_char=186|end_char=190
+2	_	_	AUX	MD	VerbForm=Fin	4	aux	_	start_char=191|end_char=195
+3	_	_	AUX	VB	VerbForm=Inf	4	aux:pass	_	start_char=196|end_char=198
+4	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=199|end_char=204
+5	_	_	ADP	IN	_	6	case	_	start_char=205|end_char=209
+6	_	_	NOUN	NN	Number=Sing	4	obl	_	start_char=210|end_char=217
+7	_	_	ADP	IN	_	8	case	_	start_char=218|end_char=220
+8	_	_	NOUN	NN	Number=Sing	4	obl	_	start_char=221|end_char=228
+9	_	_	CCONJ	CC	_	10	cc	_	start_char=229|end_char=232
+10	_	_	NOUN	NN	Number=Sing	8	conj	_	SpaceAfter=No|start_char=233|end_char=242
+11	_	_	PUNCT	.	_	4	punct	_	SpaceAfter=No|start_char=242|end_char=243
+

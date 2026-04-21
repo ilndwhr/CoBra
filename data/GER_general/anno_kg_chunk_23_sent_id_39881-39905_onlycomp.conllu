@@ -1,0 +1,99 @@
+# sent_id = 0
+1	_	_	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	_	_	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
+3	_	_	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
+
+# sent_id = 1
+1	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
+2	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+3	_	_	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+4	_	_	ADP	APPR	_	5	case	_	_
+5	_	_	PROPN	NN	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	_
+6	_	_	ADP	APPR	_	7	case	_	_
+7	_	_	PROPN	NN	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
+8	_	_	NUM	CARD	NumType=Card	9	nummod	_	_
+9	_	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	10	nmod	_	_
+10	_	_	PROPN	NN	Gender=Fem	13	obj	_	_
+11	_	_	ADP	APPR	_	12	case	_	_
+12	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	13	obl	_	_
+13	_	_	VERB	VVPP	VerbForm=Part	0	root	_	_
+14	_	_	PUNCT	$.	_	13	punct	_	_
+
+# sent_id = 2
+1	_	_	DET	ART	Case=Dat|Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+2-4	Kapitalanlagegesellschaften	_	_	_	_	_	_	_	_
+2	Kapital	Kapital	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	3	compound:nmod	_	semRel:HusesM
+3	anlage	Anlage	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	4	compound:nmod	_	semRel:HmakesM
+4	gesellschaften	Gesellschaft	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	5	obl:arg	_	_
+5	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	_	_	ADV	PAV	PronType=Dem	5	advmod	_	_
+7	_	_	ADJ	ADJD	Degree=Pos	8	advmod	_	_
+8	_	_	DET	PIAT	Degree=Cmp|PronType=Ind	9	det	_	_
+9	_	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	5	nsubj	_	_
+10	_	_	ADP	PTKVZ	_	5	compound:prt	_	_
+11	_	_	ADP	KOKOM	_	14	case	_	_
+12	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+13	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	14	amod	_	_
+14	_	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	5	obl	_	_
+15	_	_	NUM	CARD	NumType=Card	14	nmod	_	_
+16	_	_	ADP	APPR	_	18	case	_	_
+17	_	_	NUM	CARD	NumType=Card	18	nummod	_	_
+18	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	_
+19	_	_	PUNCT	$.	_	5	punct	_	_
+
+# sent_id = 3
+1	_	_	ADV	ADV	_	2	advmod	_	_
+2	_	_	ADJ	ADJD	Degree=Pos	0	root	_	_
+3	_	_	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+4	_	_	ADP	APPR	_	6	case	_	_
+5	_	_	DET	ART	Case=Dat|Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	2	nmod	_	_
+7	_	_	ADP	APPR	_	9	case	_	_
+8	_	_	DET	ART	Case=Dat|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	2	nmod	_	_
+10	_	_	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	_	_	PROPN	NN	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	_	_	PROPN	ADJA	Case=Gen|Gender=Fem|Number=Plur	13	amod	_	_
+13	_	_	PROPN	NN	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+14	_	_	PUNCT	$(	_	15	punct	_	_
+15	_	_	PROPN	NE	Case=Gen|Gender=Fem|Number=Sing	11	appos	_	_
+16	_	_	PUNCT	$(	_	15	punct	_	_
+17	_	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	2	nsubj	_	_
+18	_	_	CCONJ	KON	_	20	cc	_	_
+19	_	_	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	20	amod	_	_
+20	_	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	17	conj	_	_
+21	_	_	PUNCT	$.	_	2	punct	_	_
+
+# sent_id = 4
+1	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+2	_	_	ADP	APPR	_	4	case	_	_
+3	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	1	nmod	_	_
+5	_	_	ADP	APPR	_	8	case	_	_
+6	_	_	NUM	CARD	NumType=Card	7	nummod	_	_
+7	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	8	nmod	_	_
+8	_	_	PROPN	NN	Gender=Fem	4	nmod	_	_
+9	_	_	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	_	_	ADJ	ADJD	Degree=Pos	9	advmod	_	_
+11	_	_	PUNCT	$,	_	18	punct	_	_
+12	_	_	SCONJ	KOUS	_	18	mark	_	_
+13	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj:pass	_	_
+15	_	_	ADP	APPR	_	16	case	_	_
+16	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	18	obl	_	_
+17	_	_	ADJ	ADJD	Degree=Pos	18	advmod	_	_
+18	_	_	VERB	VVPP	VerbForm=Part	9	ccomp	_	_
+19	_	_	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+20	_	_	PUNCT	$,	_	18	punct	_	_
+21	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
+22	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+24	_	_	ADP	APPR	_	27	case	_	_
+25	_	_	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	27	det	_	_
+26	_	_	PUNCT	$(	_	25	punct	_	_
+27	_	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	21	obl	_	_
+28	_	_	ADP	APPR	_	29	case	_	_
+29	_	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	27	nmod	_	_
+30	_	_	PUNCT	$(	_	27	punct	_	_
+31	_	_	PUNCT	$.	_	21	punct	_	_
+

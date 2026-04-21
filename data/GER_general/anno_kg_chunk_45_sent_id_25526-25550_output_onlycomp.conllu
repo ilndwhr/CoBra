@@ -1,0 +1,63 @@
+# sent_id = 0
+1	_	_	SCONJ	KOUS	_	16	mark	_	_
+2	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	_	_	ADJ	ADJA	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	4	amod	_	_
+4	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+5	_	_	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	_	_	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	5	flat	_	_
+7	_	_	ADP	APPR	_	9	case	_	_
+8	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	_
+10	_	_	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	_	_	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	_	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	_
+13	_	_	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+14	_	_	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	_	_	VERB	VVPP	VerbForm=Part	16	xcomp	_	_
+16	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	advcl	_	_
+17	_	_	PUNCT	$,	_	27	punct	_	_
+18	_	_	ADP	KOUI	_	27	mark	_	_
+19	_	_	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	_	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	27	obj	_	_
+21	_	_	ADP	APPR	_	25	case	_	_
+22	_	_	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	25	det	_	_
+23-25	Lastwagenfabrik	_	_	_	_	_	_	_	_
+23	Last	Last	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	24	compound:nmod	_	semRel:HforM
+24	wagen	Wagen	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	25	compound:nmod	_	semRel:HmakesM
+25	fabrik	Fabrik	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	20	nmod	_	_
+26	_	_	PART	PTKZU	_	27	mark	_	_
+27	_	_	VERB	VVINF	VerbForm=Inf	16	advcl	_	_
+28	_	_	PUNCT	$,	_	16	punct	_	_
+29	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+30	_	_	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	29	obj	_	_
+31	_	_	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
+32	_	_	ADJ	ADJD	Degree=Pos	29	advmod	_	_
+33	_	_	PUNCT	$.	_	29	punct	_	_
+
+# sent_id = 1
+1	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	_	_	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	_	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+6	_	_	PUNCT	$.	_	3	punct	_	_
+
+# sent_id = 2
+1	_	_	ADV	ADV	_	16	advmod	_	_
+2	_	_	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	aux	_	_
+3	_	_	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+4	_	_	ADP	KOKOM	_	5	case	_	_
+5	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	16	obl	_	_
+6	_	_	DET	PPOSAT	Case=Gen|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	_	_	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	_	_	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	_	_	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	_
+10	_	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+11	_	_	ADP	APPR	_	13	case	_	_
+12	_	_	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	_	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	_
+14	_	_	ADP	APPR	_	15	case	_	_
+15	_	_	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	13	nmod	_	_
+16	_	_	VERB	VVINF	VerbForm=Inf	0	root	_	_
+17	_	_	PUNCT	$.	_	16	punct	_	_
+

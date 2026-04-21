@@ -1,0 +1,103 @@
+# sent_id = 0
+1	_	_	ADP	APPR	_	3	case	_	start_char=0|end_char=3
+2	_	_	NUM	CARD	NumType=Card	3	nummod	_	start_char=4|end_char=6
+3	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	29	obl	_	start_char=7|end_char=16
+4	_	_	ADP	APPR	_	9	case	_	start_char=17|end_char=20
+5	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	9	det	_	start_char=21|end_char=26
+6	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=27|end_char=35
+7-9	Kreuzbandruptur	_	_	_	_	_	_	_	SpaceAfter=No|start_char=36|end_char=51
+7	Kreuz	Kreuz	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	8	compound:nmod	_	semRel:HderivedfromM
+8	band	Band	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	compound:nmod	_	semRel:MhasH
+9	ruptur	Ruptur	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	3	nmod	_	_
+10	_	_	PUNCT	$,	_	21	punct	_	start_char=51|end_char=52
+11	_	_	DET	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel	21	nsubj:pass	_	start_char=53|end_char=59
+12	_	_	ADP	APPR	_	14	case	_	start_char=60|end_char=62
+13	_	_	DET	ART	Case=Dat|Definite=Def|Number=Plur|PronType=Art	14	det	_	start_char=63|end_char=66
+14	_	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	21	obl	_	start_char=67|end_char=73
+15	_	_	ADP	APPR	_	16	case	_	start_char=74|end_char=77
+16	_	_	NUM	CARD	NumType=Card	14	nmod	_	start_char=78|end_char=87
+17	_	_	ADP	APPR	_	20	case	_	start_char=88|end_char=90
+18	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	20	det	_	start_char=91|end_char=96
+19	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	start_char=97|end_char=110
+20	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	21	obl	_	start_char=111|end_char=118
+21	_	_	VERB	VVPP	VerbForm=Part	9	acl	_	start_char=119|end_char=127
+22	_	_	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	21	aux:pass	_	SpaceAfter=No|start_char=128|end_char=134
+23	_	_	PUNCT	$,	_	21	punct	_	start_char=134|end_char=135
+24	_	_	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	29	aux	_	start_char=136|end_char=143
+25	_	_	ADP	APPR	_	27	case	_	start_char=144|end_char=148
+26	_	_	NUM	CARD	NumType=Card	27	nummod	_	start_char=149|end_char=154
+27	_	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	29	obl	_	start_char=155|end_char=161
+28	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	29	nsubj:pass	_	start_char=162|end_char=176
+29	_	_	VERB	VVPP	VerbForm=Part	0	root	_	start_char=177|end_char=191
+30	_	_	AUX	VAINF	VerbForm=Inf|Voice=Pass	29	aux:pass	_	SpaceAfter=No|start_char=192|end_char=198
+31	_	_	PUNCT	$.	_	29	punct	_	start_char=198|end_char=199
+
+# sent_id = 1
+1	_	_	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	det	_	start_char=200|end_char=203
+2	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	start_char=204|end_char=214
+3	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	start_char=215|end_char=223
+4	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	16	nsubj:pass	_	start_char=224|end_char=235
+5	_	_	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	16	aux:pass	_	start_char=236|end_char=242
+6	_	_	ADP	APPR	_	8	case	_	start_char=243|end_char=247
+7	_	_	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	start_char=248|end_char=259
+8	_	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No|start_char=260|end_char=270
+9	_	_	PUNCT	$,	_	10	punct	_	start_char=270|end_char=271
+10	_	_	ADJ	ADJD	Degree=Pos	8	conj	_	start_char=272|end_char=279
+11	_	_	CCONJ	KON	_	12	cc	_	start_char=280|end_char=284
+12	_	_	ADJ	ADJD	Degree=Pos	8	conj	_	SpaceAfter=No|start_char=285|end_char=291
+13	_	_	PUNCT	$,	_	8	punct	_	start_char=291|end_char=292
+14	_	_	ADP	APPR	_	15	case	_	start_char=293|end_char=297
+15	_	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	start_char=298|end_char=310
+16	_	_	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No|start_char=311|end_char=322
+17	_	_	PUNCT	$.	_	16	punct	_	start_char=322|end_char=323
+
+# sent_id = 2
+1	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	obl	_	start_char=324|end_char=336
+2	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=337|end_char=345
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=346|end_char=359
+6-7	_	_	_	_	_	_	_	_	start_char=360|end_char=362
+6	_	_	ADP	APPR	_	6	case	_	_
+7	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6-8	Oberschenkelgipsverband	_	_	_	_	_	_	_	start_char=363|end_char=386
+8	Oberschenkel	Oberschenkel	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	7	compound:nmod	_	semRel:HforM
+9	gips	Gips	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	8	compound:nmod	_	semRel:HderivedfromM
+10	verband	Verband	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	_
+11	_	_	ADP	APPR	_	11	case	_	start_char=387|end_char=390
+12	_	_	NUM	CARD	NumType=Card	11	nummod	_	start_char=391|end_char=392
+13	_	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No|start_char=393|end_char=399
+14	_	_	PUNCT	$.	_	2	punct	_	start_char=399|end_char=400
+
+# sent_id = 3
+1	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	start_char=401|end_char=404
+2	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	start_char=405|end_char=423
+3	_	_	DET	ART	Case=Gen|Definite=Def|Number=Plur|PronType=Art	4	det	_	start_char=424|end_char=427
+4	_	_	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=428|end_char=437
+5-6	_	_	_	_	_	_	_	_	start_char=438|end_char=441
+5	_	_	ADP	APPR	_	7	case	_	_
+6	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	start_char=442|end_char=457
+8	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=458|end_char=464
+9	_	_	NUM	CARD	NumType=Card	10	nummod	_	start_char=465|end_char=467
+10	_	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	8	xcomp	_	start_char=468|end_char=473
+11	_	_	PUNCT	$(	_	13	punct	_	SpaceAfter=No|start_char=474|end_char=475
+12	_	_	NUM	CARD	NumType=Card	13	nummod	_	start_char=475|end_char=480
+13	_	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	10	appos	_	SpaceAfter=No|start_char=481|end_char=486
+14	_	_	PUNCT	$(	_	13	punct	_	SpaceAfter=No|start_char=486|end_char=487
+15	_	_	PUNCT	$.	_	8	punct	_	start_char=487|end_char=488
+
+# sent_id = 4
+1	_	_	DET	PIAT	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	2	det	_	start_char=489|end_char=493
+2	_	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	13	nsubj:pass	_	start_char=494|end_char=503
+3	_	_	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	13	aux:pass	_	start_char=504|end_char=510
+4	_	_	ADJ	ADJD	Degree=Pos	13	advmod	_	start_char=511|end_char=521
+5	_	_	ADP	APPR	_	7	case	_	start_char=522|end_char=526
+6	_	_	NUM	CARD	NumType=Card	7	nummod	_	start_char=527|end_char=532
+7	_	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	13	obl	_	start_char=533|end_char=539
+8	_	_	PUNCT	$(	_	11	punct	_	SpaceAfter=No|start_char=540|end_char=541
+9	_	_	ADJ	ADJD	Degree=Pos	10	advmod	_	start_char=541|end_char=557
+10	_	_	NUM	CARD	NumType=Card	11	nummod	_	start_char=558|end_char=562
+11	_	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	7	appos	_	SpaceAfter=No|start_char=563|end_char=569
+12	_	_	PUNCT	$(	_	11	punct	_	start_char=569|end_char=570
+13	_	_	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No|start_char=571|end_char=585
+14	_	_	PUNCT	$.	_	13	punct	_	start_char=585|end_char=586
+

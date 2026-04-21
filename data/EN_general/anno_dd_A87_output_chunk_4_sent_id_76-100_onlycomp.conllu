@@ -1,0 +1,62 @@
+# sent_id = 0
+1	_	_	NOUN	NN	Number=Sing	2	compound	_	_
+2	_	_	NOUN	NN	Number=Sing	3	nsubj:pass	_	_
+3	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	_	_	ADP	IN	_	6	case	_	_
+5	_	_	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	_	_	NOUN	NN	Number=Sing	3	obl	_	_
+7	_	_	ADP	IN	_	10	case	_	_
+8	Brazil	Brazil	PROPN	NNP	Number=Sing	10	compound:nmod	_	semRel:HlocationisM|_
+9	election	election	NOUN	NN	Number=Sing	10	compound:nmod	_	semRel:HisM|_
+10	race	race	NOUN	NN	Number=Sing	3	obl	_	_|_
+11	_	_	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 1
+1	_	_	ADP	IN	_	2	case	_	_
+2	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	0	root	_	_
+3	_	_	PROPN	NNP	Number=Sing	2	flat	_	_
+4	_	_	ADP	IN	_	5	case	_	_
+5	_	_	PROPN	NNP	Number=Sing	2	nmod	_	_
+
+# sent_id = 2
+1	_	_	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	_	_	NOUN	NN	Number=Sing	29	nsubj:pass	_	_
+3	_	_	SCONJ	IN	_	12	mark	_	_
+4	_	_	PROPN	NNP	Number=Sing	7	nmod:poss	_	_
+5	_	_	PART	POS	_	4	case	_	_
+6	_	_	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	_	_	PROPN	NNP	Number=Sing	12	nsubj	_	_
+8	_	_	AUX	MD	VerbForm=Fin	12	aux	_	_
+9	_	_	AUX	VB	VerbForm=Inf	12	cop	_	_
+10	_	_	DET	DT	Definite=Ind|PronType=Art	12	det	_	_
+11	_	_	NOUN	NN	Number=Sing	12	compound	_	_
+12	_	_	NOUN	NN	Number=Sing	2	acl	_	_
+13	_	_	ADP	IN	_	15	case	_	_
+14	_	_	ADJ	JJ	Degree=Pos	15	amod	_	_
+15	_	_	NOUN	NN	Number=Sing	12	nmod	_	_
+16	_	_	CCONJ	CC	_	19	cc	_	_
+17	_	_	DET	DT	Definite=Ind|PronType=Art	19	det	_	_
+18	_	_	ADJ	JJ	Degree=Pos	19	amod	_	_
+19	_	_	NOUN	NN	Number=Sing	15	conj	_	_
+20	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+21	_	_	ADP	IN	_	22	case	_	_
+22	_	_	NOUN	NN	Number=Sing	20	obl	_	_
+23	_	_	ADP	IN	_	25	case	_	_
+24	_	_	NOUN	NN	Number=Sing	25	compound	_	_
+25	_	_	NOUN	NN	Number=Sing	20	obl:agent	_	_
+26	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
+27	_	_	AUX	VBN	Tense=Past|VerbForm=Part	29	aux:pass	_	_
+28	_	_	ADV	RB	_	29	advmod	_	_
+29	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+30	_	_	ADP	IN	_	34	case	_	_
+31	_	_	DET	DT	Definite=Def|PronType=Art	34	det	_	_
+32	_	_	NUM	CD	NumForm=Word|NumType=Card	34	nummod	_	_
+33	_	_	ADJ	JJ	Degree=Pos	34	amod	_	_
+34	_	_	NOUN	NNS	Number=Plur	29	obl:agent	_	_
+35	_	_	ADP	IN	_	39	case	_	_
+36	_	_	DET	DT	Definite=Def|PronType=Art	39	det	_	_
+37	_	_	ADJ	NNP	Degree=Pos	39	amod	_	_
+38	_	_	ADJ	NNP	Degree=Pos	39	amod	_	_
+39	_	_	PROPN	NNP	Number=Sing	34	nmod	_	_
+40	_	_	PUNCT	.	_	29	punct	_	_
+

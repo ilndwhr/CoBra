@@ -1,0 +1,141 @@
+# sent_id = 0
+1	_	_	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	3	det	_	start_char=199|end_char=203
+2	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=204|end_char=213
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	start_char=214|end_char=224
+4	_	_	ADP	KOKOM	_	5	case	_	start_char=225|end_char=228
+5	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nmod	_	start_char=229|end_char=236
+6	_	_	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	start_char=237|end_char=247
+7	_	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	start_char=248|end_char=257
+8	_	_	ADP	APPR	_	9	case	_	start_char=258|end_char=261
+9	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	5	nmod	_	start_char=262|end_char=271
+10	_	_	ADP	APPR	_	12	case	_	start_char=272|end_char=275
+11	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	12	det	_	start_char=276|end_char=281
+12	_	_	PROPN	NN	Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	start_char=282|end_char=288
+13	_	_	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	12	appos	_	start_char=289|end_char=294
+14	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=295|end_char=302
+15	_	_	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	16	det	_	start_char=303|end_char=307
+16	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	14	xcomp	_	start_char=308|end_char=315
+17	_	_	PART	PTKZU	_	16	mark	_	start_char=316|end_char=318
+18	_	_	AUX	VAINF	VerbForm=Inf	16	cop	_	SpaceAfter=No|start_char=319|end_char=323
+19	_	_	PUNCT	$.	_	14	punct	_	start_char=323|end_char=324
+
+# sent_id = 1
+1	_	_	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=325|end_char=328
+2	_	_	VERB	VVFIN	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=329|end_char=338
+3	_	_	ADP	APPR	_	5	case	_	start_char=339|end_char=343
+4	_	_	NUM	CARD	NumType=Card	5	nummod	_	start_char=344|end_char=345
+5	_	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	start_char=346|end_char=351
+6	_	_	ADP	APPR	_	8	case	_	start_char=352|end_char=355
+7	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=356|end_char=366
+8	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	start_char=367|end_char=377
+9	_	_	ADP	APPR	_	10	case	_	start_char=378|end_char=381
+10	_	_	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	start_char=382|end_char=388
+11	_	_	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	10	flat	_	start_char=389|end_char=394
+12	_	_	ADP	APPR	_	13	case	_	start_char=395|end_char=398
+13	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	2	obl	_	start_char=399|end_char=411
+14-15	_	_	_	_	_	_	_	_	start_char=412|end_char=414
+14	_	_	ADP	APPR	_	16	case	_	_
+15	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
+16	_	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	13	nmod	_	start_char=415|end_char=420
+17	_	_	ADP	APPR	_	23	case	_	start_char=421|end_char=424
+18	_	_	NUM	CARD	NumType=Card	23	nummod	_	SpaceAfter=No|start_char=425|end_char=427
+19	_	_	PUNCT	$,	_	20	punct	_	start_char=427|end_char=428
+20	_	_	NUM	CARD	NumType=Card	18	conj	_	start_char=429|end_char=431
+21	_	_	CCONJ	KON	_	22	cc	_	start_char=432|end_char=435
+22	_	_	NUM	CARD	NumType=Card	18	conj	_	start_char=436|end_char=438
+23	_	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	16	nmod	_	SpaceAfter=No|start_char=439|end_char=445
+24	_	_	PUNCT	$,	_	31	punct	_	start_char=445|end_char=446
+25	_	_	PRON	PRELS	Case=Nom|Number=Plur|PronType=Dem,Rel	31	nsubj	_	start_char=447|end_char=450
+26	_	_	ADV	ADV	_	31	advmod	_	start_char=451|end_char=458
+27	_	_	ADP	APPR	_	29	case	_	start_char=459|end_char=462
+28	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	29	det	_	start_char=463|end_char=468
+29	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	30	nmod	_	start_char=469|end_char=479
+30	_	_	ADJ	ADJD	Degree=Pos	31	xcomp	_	start_char=480|end_char=493
+31	_	_	VERB	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	acl	_	SpaceAfter=No|start_char=494|end_char=500
+32	_	_	PUNCT	$.	_	2	punct	_	start_char=500|end_char=501
+
+# sent_id = 2
+1	_	_	ADV	PAV	_	2	advmod	_	start_char=502|end_char=507
+2	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=508|end_char=516
+3	_	_	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	4	det	_	start_char=517|end_char=521
+4	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=522|end_char=531
+5-7	Wortfindungsstörungen	_	_	_	_	_	_	_	SpaceAfter=No|start_char=532|end_char=553
+5	Wort	Wort	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	6	compound:nmod	_	semRel=HaboutM
+6	findungs	Findung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	7	compound:nmod	_	semRel=HaboutM
+7	störungen	Störung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	2	obj	_	_
+8	_	_	PUNCT	$,	_	9	punct	_	start_char=553|end_char=554
+9	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	7	conj	_	start_char=555|end_char=568
+10	_	_	CCONJ	KON	_	11	cc	_	start_char=569|end_char=572
+11	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No|start_char=573|end_char=588
+12	_	_	PUNCT	$.	_	2	punct	_	start_char=588|end_char=589
+
+# sent_id = 3
+1	_	_	ADP	APPR	_	3	case	_	start_char=590|end_char=592
+2	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=593|end_char=596
+3	_	_	PROPN	NN	Case=Dat|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|start_char=597|end_char=600
+4	_	_	PUNCT	$(	_	5	punct	_	start_char=600|end_char=601
+5	_	_	CCONJ	KON	Abbr=Yes	3	dep	_	SpaceAfter=No|start_char=602|end_char=605
+6	_	_	PUNCT	$.	_	3	punct	_	start_char=605|end_char=606
+
+# sent_id = 4
+1	_	_	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No|start_char=607|end_char=610
+2	_	_	PUNCT	$(	_	3	punct	_	SpaceAfter=No|start_char=610|end_char=611
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	start_char=611|end_char=623
+4	_	_	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=624|end_char=630
+5	_	_	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	4	obj	_	start_char=631|end_char=635
+6	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	start_char=636|end_char=644
+7-9	Hirnparenchymläsionen	_	_	_	_	_	_	_	start_char=645|end_char=666
+7	Hirn	Hirn	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	8	compound:nmod	_	semRel=HlocationisM
+8	parenchym	Parenchym	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	9	compound:nmod	_	semRel=HaboutM
+9	läsionen	Läsion	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+10	_	_	VERB	VVINF	VerbForm=Inf	4	xcomp	_	SpaceAfter=No|start_char=667|end_char=677
+11	_	_	PUNCT	$.	_	4	punct	_	start_char=677|end_char=678
+
+# sent_id = 5
+1	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=679|end_char=682
+2	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=683|end_char=692
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=693|end_char=705
+4	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=706|end_char=711
+5	_	_	ADP	APPR	_	7	case	_	start_char=712|end_char=714
+6	_	_	DET	PIAT	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	7	det	_	start_char=715|end_char=720
+7	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	4	obl	_	start_char=721|end_char=727
+8	_	_	ADV	ADV	_	4	advmod	_	start_char=728|end_char=735
+9	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	start_char=736|end_char=744
+10	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	obj	_	start_char=745|end_char=759
+11	_	_	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	start_char=760|end_char=763
+12	_	_	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=764|end_char=773
+13	_	_	CCONJ	KON	_	14	cc	_	start_char=774|end_char=777
+14	_	_	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	12	conj	_	start_char=778|end_char=784
+15	_	_	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	start_char=785|end_char=800
+16	_	_	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	start_char=801|end_char=807
+17-18	_	_	_	_	_	_	_	_	start_char=808|end_char=810
+17	_	_	ADP	APPR	_	19	case	_	_
+18	_	_	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	_	_	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	16	nmod	_	start_char=811|end_char=816
+20	_	_	DET	ART	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	22	det	_	start_char=817|end_char=822
+21	_	_	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=823|end_char=833
+22	_	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	start_char=834|end_char=844
+23	_	_	ADP	APPR	_	25	case	_	start_char=845|end_char=848
+24	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	start_char=849|end_char=858
+25	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No|start_char=859|end_char=878
+26	_	_	PUNCT	$.	_	4	punct	_	start_char=878|end_char=879
+
+# sent_id = 6
+1	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=880|end_char=883
+2	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=884|end_char=893
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=894|end_char=905
+4	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=906|end_char=913
+5	_	_	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	4	obj	_	start_char=914|end_char=918
+6	_	_	ADP	APPR	_	8	case	_	start_char=919|end_char=924
+7	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	8	det	_	start_char=925|end_char=930
+8	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	start_char=931|end_char=947
+9	_	_	CCONJ	KON	_	15	cc	_	start_char=948|end_char=951
+10	_	_	DET	PIS	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	15	det	_	start_char=952|end_char=957
+11	_	_	ADP	APPR	_	13	case	_	start_char=958|end_char=961
+12	_	_	NUM	CARD	NumType=Card	13	nummod	_	start_char=962|end_char=963
+13	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	14	nmod	_	start_char=964|end_char=976
+14	_	_	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=977|end_char=989
+15	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	8	conj	_	start_char=990|end_char=1005
+16	_	_	ADV	PTKVZ	_	4	compound:prt	_	SpaceAfter=No|start_char=1006|end_char=1012
+17	_	_	PUNCT	$.	_	4	punct	_	start_char=1012|end_char=1013
+

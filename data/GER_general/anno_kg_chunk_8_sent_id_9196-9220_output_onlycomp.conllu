@@ -1,0 +1,68 @@
+# sent_id = 0
+1	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	_	_	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+4	_	_	DET	PPOSAT	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	_	_	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	_	_	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+8	_	_	PUNCT	$.	_	7	punct	_	_
+
+# sent_id = 1
+1	_	_	ADP	APPR	_	2	case	_	_
+2	_	_	PRON	PDS	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem,Rel	8	obl	_	_
+3	_	_	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+4	_	_	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+5	_	_	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+6	_	_	ADV	ADV	_	8	advmod	_	_
+7	_	_	VERB	VVINF	VerbForm=Inf	8	xcomp	_	_
+8	_	_	VERB	VVINF	VerbForm=Inf	0	root	_	_
+9	_	_	PUNCT	$.	_	8	punct	_	_
+
+# sent_id = 2
+1	_	_	ADV	ADV	_	7	advmod	_	_
+2	_	_	ADP	APPR	_	4	case	_	_
+3	_	_	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	4	det	_	_
+4	_	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	_
+5	_	_	ADP	APPR	_	6	case	_	_
+6	_	_	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
+7	_	_	VERB	VVPP	VerbForm=Part	9	advcl	_	_
+8	_	_	PUNCT	$,	_	7	punct	_	_
+9	_	_	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	_	_	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	_	_	ADV	PAV	PronType=Dem	9	advmod	_	_
+12	_	_	PUNCT	$,	_	26	punct	_	_
+13	_	_	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	15	det	_	_
+14	_	_	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	_	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
+16	_	_	ADP	APPR	_	18	case	_	_
+17	_	_	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	_	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	15	nmod	_	_
+19	_	_	CCONJ	KON	_	22	cc	_	_
+20-22	Fußballclubbesitzer	_	_	_	_	_	_	_	_
+20	Fußball	Fußball	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	21	compound:nmod	_	semRel:MaboutH
+21	club	Club	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	22	compound:nmod	_	semRel:HhasM
+22	besitzer	Besitzer	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	18	conj	_	_
+23	_	_	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	18	appos	_	_
+24	_	_	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	23	flat	_	_
+25	_	_	PART	PTKZU	_	26	mark	_	_
+26	_	_	VERB	VVINF	VerbForm=Inf	9	xcomp	_	_
+27	_	_	PUNCT	$.	_	9	punct	_	_
+
+# sent_id = 3
+1	_	_	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	_	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+3	_	_	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	aux:pass	_	_
+4	_	_	VERB	VVPP	VerbForm=Part	0	root	_	_
+5	_	_	PUNCT	$.	_	4	punct	_	_
+
+# sent_id = 4
+1	_	_	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	_	_	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	1	flat	_	_
+3	_	_	PUNCT	$,	_	7	punct	_	_
+4	_	_	ADP	APPR	_	5	case	_	_
+5	_	_	ADJ	ADJA	Degree=Pos|NumType=Ord	7	compound	_	_
+6	_	_	ADJ	ADJA	Degree=Pos|NumType=Ord	7	compound	_	_
+7	_	_	NUM	CARD	NumType=Card	1	dep	_	_
+8	_	_	PUNCT	$.	_	1	punct	_	_
+
