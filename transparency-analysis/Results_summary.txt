@@ -1,0 +1,73 @@
+Results of Metrics tests:
+
+1. test strength of represenations (composed vs. queried):
+
+AB node:
+Mean comp: 0.37045652
+Mean query: 0.6372037
+Mean difference (comp - query): -0.2667472
+Cohen's d = -2.136
+t = -27.526 , p = 0.0
+BC node:
+Mean comp: 0.41654852
+Mean query: 0.70195717
+Mean difference (comp - query): -0.2854086
+Cohen's d = -1.939
+t = -24.985 , p = 0.0
+Global comparison:
+Mean comp: 0.39350253
+Mean query: 0.66958046
+Mean difference (comp - query): -0.27607793
+Cohen's d = -2.021
+t = -36.829 , p = 0.0
+ttest (general similarity of internal to whole) COMP representation:
+t = -5.539, p = 1.1801701806180735e-07
+
+-> THUS: as in all tests significance is really high and effect size is really large, we will continue using the queried represenation moving forward
+
+
+2. General coherence / similarity between gold and competing internal structure to whole-word
+
+ttest (general similarity of internal to whole) QUERY representation:
+t = -4.388, p = 2.038041759640533e-05
+
+3. Head-alignment coherence / gold internal head-structure and competing internal head-structure (sim(A,BC) vs. sim(AB,C))
+
+ttest (similarity of modifier to head) QUERY representation:
+t = 7.408, p = 6.27541203812487e-12
+
+4.1 is embedded reliably more than the sum of its parts? / test whether the internal node of the gold structure is more coherent than the sum of its parts
+
+one-sample test (TA)QUERY representation:
+Mean TA_gold: 1.2126037499990807 , t = 54.267 , p = 3.936859425294607e-107
+
+4.2 test TA competition: Is TA of gold higher than TA of competing structure? / does transparency asymmetry support the gold branching
+
+paired ttest (gold-TA vs. competing TA) QUERY representation:
+Mean TA_gold: 1.2126037499990807
+Mean TA_comp: 1.0179602438247348
+Mean difference: 0.19464350617434606
+t = 6.79 , p = 1.9295017657052528e-10 
+
+5. Predictiveness of the metrics / how well do the metrics predict the gold-branching? 
+
+QUERY delta accuracy: 0.33
+QUERY TA delta accuracy: 0.7168674698795181
+QUERY head-alignment delta accuracy: 0.7108433734939759
+
+6. model comparison:
+
+6.1 likelihoodratio tests
+
+likelihoodratio basemodel to semcorh_model: (np.float64(2.2157984875690317), np.int64(1), np.float64(0.13660436764215078))
+likelihoodratio semcorh_model to SemCoTA_model: (np.float64(7.8004494196938055), np.int64(1), np.float64(0.005223324134387503))
+likelihoodratio SemCoTA_model to SemCoTA_HA_model: (np.float64(5.206424331159852), np.int64(1), np.float64(0.02250357006921821))
+likelihoodratio SemCoTA_HA_model to allInt_model: (np.float64(5.355338809474034), np.int64(4), np.float64(0.2527409653516977))
+
+6.2 AIC tests
+
+basemodel  aic value:  102.71992898319894
+semcorh_model  aic value:  102.50413049562991
+SemCoTA_model  aic value:  96.7036810759361
+SemCoTA_HA_model  aic value:  93.49725674477625
+allInt_model  aic value:  96.14191793530222
