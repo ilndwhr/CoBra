@@ -1,213 +1,213 @@
 compound;comp_lemma;const_1_text;const_2_text;const_3_text;const_1_lemma;const_2_lemma;const_3_lemma;gold_branching;language;register;semRel1;semRel2
-East-West reductions;_;East;West;reductions;_;_;reduction;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
-arms control process;arm control process;arms;control;process;arm;control;process;AB;EN;general;semRel:HforM|_;semRel:HforM|_
-East-West agreement;_;East;West;agreement;_;_;agreement;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
-East-West relations;_;East;West;relations;_;_;relation;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
-Hindu-Sikh riots;_;Hindu;Sikh;riots;_;_;riot;BC;EN;general;semRel:HcausedbyM;semRel:HcausedbyM
-Frankfurt Stock Exchange;Frankfurt stock Exchange;Frankfurt;Stock;Exchange;Frankfurt;stock;Exchange;BC;EN;general;semRel:HlocationisM|_;semRel:MhasH|_
-cardboard polling booths;cardboard polling booth;cardboard;polling;booths;cardboard;polling;booth;BC;EN;general;semRel:HmadeofM|_;semRel:HforM|_
-Brazil election race;Brazil election race;Brazil;election;race;Brazil;election;race;BC;EN;general;semRel:HlocationisM|_;semRel:HisM|_
-cocaine dealing house;cocaine deal house;cocaine;dealing;house;cocaine;deal;house;BC;EN;general;semRel:HforM|_;semRel:HforM|_
-exchange rate mechanism;exchange rate mechanism;exchange;rate;mechanism;exchange;rate;mechanism;AB;EN;general;semRel:MhasH|_;semRel:HderivedfromM|_
-umbrella opposition group;umbrella opposition group;umbrella;opposition;group;umbrella;opposition;group;AB;EN;general;semRel:HisM|_;semRel:HisM|_
-emergency party congress;emergency party congress;emergency;party;congress;emergency;party;congress;BC;EN;general;semRel:HduringM|_;semRel:HforM|_
-Nobel Peace Prize;Nobel Peace Prize;Nobel;Peace;Prize;Nobel;Peace;Prize;BC;EN;general;semRel:HbyM|_;semRel:HforM|_
-Troop pullout plan;troop pullout plan;Troop;pullout;plan;troop;pullout;plan;AB;EN;general;semRel:HforM|_;semRel:HforM|_
-emergency party congress;emergency party congress;emergency;party;congress;emergency;party;congress;BC;EN;general;semRel:HduringM|_;semRel:HforM|_
-air force helicopters;air force helicopter;air;force;helicopters;air;force;helicopter;AB;EN;general;semRel:HforM|_;semRel:HusedbyM|_
-army coup leaders;army coup leader;army;coup;leaders;army;coup;leader;AB;EN;general;semRel:HcausedbyM|_;semRel:MhasH|_
-trade union paper;trade union paper;trade;union;paper;trade;union;paper;AB;EN;general;semRel:HforM|_;semRel:HusebyM|_
-security police apparatus;security police apparatus;security;police;apparatus;security;police;apparatus;AB;EN;general;semRel:HforM|_;semRel:HderivedfromM|_
-televison propaganda war;televison propaganda war;televison;propaganda;war;televison;propaganda;war;AB;EN;general;semRel:HderivedfromM|_;semRel:HderivedfromM|_
-Bratislava prison cell;Bratislava prison cell;Bratislava;prison;cell;Bratislava;prison;cell;BC;EN;general;semRel:HlocationisM|_;semRel:HlocationisM|_
-satellite intelligence stations;satellite intelligence station;satellite;intelligence;stations;satellite;intelligence;station;BC;EN;general;semRel:MhasH|_;semRel:HforM|_
-exchange rate mechanism;exchange rate mechanism;exchange;rate;mechanism;exchange;rate;mechanism;AB;EN;general;semRel:MhasH|_;semRel:HderivedfromM|_
+East-West reductions;East-West reduction;East;West;reductions;East;West;reduction;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
+arms control process;arm control process;arms;control;process;arm;control;process;AB;EN;general;semRel:HforM;semRel:HforM
+East-West agreement;East-West agreement;East;West;agreement;East;West;agreement;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
+East-West relations;East-West relation;East;West;relations;East;West;relation;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
+Hindu-Sikh riots;Hindu-Sikh riot;Hindu;Sikh;riots;Hindu;Sikh;riot;BC;EN;general;semRel:HcausedbyM;semRel:HcausedbyM
+Frankfurt Stock Exchange;Frankfurt stock Exchange;Frankfurt;Stock;Exchange;Frankfurt;stock;Exchange;BC;EN;general;semRel:HlocationisM;semRel:MhasH
+cardboard polling booths;cardboard polling booth;cardboard;polling;booths;cardboard;polling;booth;BC;EN;general;semRel:HmadeofM;semRel:HforM
+Brazil election race;Brazil election race;Brazil;election;race;Brazil;election;race;BC;EN;general;semRel:HlocationisM;semRel:HisM
+cocaine dealing house;cocaine deal house;cocaine;dealing;house;cocaine;deal;house;BC;EN;general;semRel:HforM;semRel:HforM
+exchange rate mechanism;exchange rate mechanism;exchange;rate;mechanism;exchange;rate;mechanism;AB;EN;general;semRel:MhasH;semRel:HderivedfromM
+umbrella opposition group;umbrella opposition group;umbrella;opposition;group;umbrella;opposition;group;AB;EN;general;semRel:HisM;semRel:HisM
+emergency party congress;emergency party congress;emergency;party;congress;emergency;party;congress;BC;EN;general;semRel:HduringM;semRel:HforM
+Nobel Peace Prize;Nobel Peace Prize;Nobel;Peace;Prize;Nobel;Peace;Prize;BC;EN;general;semRel:HbyM;semRel:HforM
+Troop pullout plan;troop pullout plan;Troop;pullout;plan;troop;pullout;plan;AB;EN;general;semRel:HforM;semRel:HforM
+emergency party congress;emergency party congress;emergency;party;congress;emergency;party;congress;BC;EN;general;semRel:HduringM;semRel:HforM
+air force helicopters;air force helicopter;air;force;helicopters;air;force;helicopter;AB;EN;general;semRel:HforM;semRel:HusedbyM
+army coup leaders;army coup leader;army;coup;leaders;army;coup;leader;AB;EN;general;semRel:HcausedbyM;semRel:MhasH
+trade union paper;trade union paper;trade;union;paper;trade;union;paper;AB;EN;general;semRel:HforM;semRel:HusebyM
+security police apparatus;security police apparatus;security;police;apparatus;security;police;apparatus;AB;EN;general;semRel:HforM;semRel:HderivedfromM
+televison propaganda war;televison propaganda war;televison;propaganda;war;televison;propaganda;war;AB;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
+Bratislava prison cell;Bratislava prison cell;Bratislava;prison;cell;Bratislava;prison;cell;BC;EN;general;semRel:HlocationisM;semRel:HlocationisM
+satellite intelligence stations;satellite intelligence station;satellite;intelligence;stations;satellite;intelligence;station;BC;EN;general;semRel:MhasH;semRel:HforM
+exchange rate mechanism;exchange rate mechanism;exchange;rate;mechanism;exchange;rate;mechanism;AB;EN;general;semRel:MhasH;semRel:HderivedfromM
 drill canal expansion;drill canal expansion;drill;canal;expansion;drill;canal;expansion;AB;EN;scientific;semRel:HcausedbyM;semRel:HlocationisM
-beach- chair position;beach- chair position;beach-;chair;position;beach-;chair;position;AB;EN;scientific;semRel:HforM|SpaceAfter=No;semRel:HderivedfromM|SpaceAfter=No
+beach-chair position;beach-chair position;beach-;chair;position;beach-;chair;position;AB;EN;scientific;semRel:HforM;semRel:HderivedfromM
 weight bearing surface;weight bear surface;weight;bearing;surface;weight;bear;surface;AB;EN;scientific;semRel:HhasM;semRel:HforM
-ankle fracture treatment;ankle fracture treatment;ankle;fracture;treatment;ankle;fracture;treatment;AB;EN;scientific;semRel:HlocationisM|;semRel:HforM
+ankle fracture treatment;ankle fracture treatment;ankle;fracture;treatment;ankle;fracture;treatment;AB;EN;scientific;semRel:HlocationisM;semRel:HforM
 cartilage fracture repair;cartilage fracture repair;cartilage;fracture;repair;cartilage;fracture;repair;AB;EN;scientific;semRel:HlocationisM;semRel:HforM
 demerit point system;demerit point system;demerit;point;system;demerit;point;system;AB;EN;scientific;semRel:HisM;semRel:HforM
-cartilage matrix destruction;cartilage matrix destruction;cartilage;matrix;destruction;cartilage;matrix;destruction;AB;EN;scientific;semRel:HmakesM;semRel:HlocationisM|
-Brazil election race;Brazil election race;Brazil;election;race;Brazil;election;race;AB;EN;general;semRel:HlocationisM|_;semRel:HaboutM|_
-cocaine dealing house;cocaine deal house;cocaine;dealing;house;cocaine;deal;house;AB;EN;general;semRel:MhasH|_;semRel:HforM|_
-notch width index;notch width index;notch;width;index;notch;width;index;AB;EN;scientific;semRel:MhasH|;semRel:HderivedfromM
+cartilage matrix destruction;cartilage matrix destruction;cartilage;matrix;destruction;cartilage;matrix;destruction;AB;EN;scientific;semRel:HmakesM;semRel:HlocationisM
+Brazil election race;Brazil election race;Brazil;election;race;Brazil;election;race;AB;EN;general;semRel:HlocationisM;semRel:HaboutM
+cocaine dealing house;cocaine deal house;cocaine;dealing;house;cocaine;deal;house;AB;EN;general;semRel:MhasH;semRel:HforM
+notch width index;notch width index;notch;width;index;notch;width;index;AB;EN;scientific;semRel:MhasH;semRel:HderivedfromM
 quadriceps tendon grafts;quadricep tendon graft;quadriceps;tendon;grafts;quadricep;tendon;graft;AB;EN;scientific;semRel:HlocationisM;semRel:HderivedfromM
 biceps tendon strip;biceps tendon strip;biceps;tendon;strip;biceps;tendon;strip;BC;EN;scientific;semRel:HlocationisM;semRel:Hderivedfrom
 patella tendon graft;patella tendon graft;patella;tendon;graft;patella;tendon;graft;AB;EN;scientific;semRel:HlocationisM;semRel:HderivedfromM
-shoulder- dislocation study;shoulder- dislocation study;shoulder-;dislocation;study;shoulder-;dislocation;study;AB;EN;scientific;semRel:HlocationisM|SpaceAfter=No;semRel:HaboutM|SpaceAfter=No
-"knee school """;"knee school """;knee;school;"""";knee;school;"""";AB;EN;scientific;semRel:HforM;semRel:HisM
+shoulder- dislocation study;shoulder-dislocation study;shoulder-;dislocation;study;shoulder-;dislocation;study;AB;EN;scientific;semRel:HlocationisM;semRel:HaboutM
+knee school concept;knee school concept;knee;school;concept;knee;school;concept;AB;EN;scientific;semRel:HforM;semRel:HisM
 positron emission tomography;positron emission tomography;positron;emission;tomography;positron;emission;tomography;AB;EN;scientific;semRel:HhasM;semRel:HusesM
-Blutgefäßversorgung;_;Blut;gefäß;versorgung;Blut;Gefäß;Versorgung;AB;GER;scientific;semRel:MderivedfromH;semRel:MhasH
-Faserknorpelzone;_;Faser;knorpel;zone;Faser;Knorpel;Zone;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
-Kniegelenkpräparate;_;Knie;gelenk;präparate;Knie;Gelenk;Präparate;AB;GER;scientific;semRel:MisH;semRel:HderivedfromM
-Bindegewebstransplantate;_;Binde;gewebs;transplantate;Binde;Gewebe;Transplantat;AB;GER;scientific;semRel:MderivedfromH;semRel:HlocationisM
-Kreuzbandersatz;_;Kreuz;band;ersatz;Kreuz;Band;Ersatz;AB;GER;scientific;semRel:MisH;semRel:MhasH
-Quadrizepssehnentransplantate;_;Quadrizeps;Sehnen;transplantate;Quadrizeps;Sehne;Transplantat;AB;GER;scientific;semRel:HderivedfromM;semRel:HderivedfromM
-Bizepssehnenstreifen;_;Bizeps;sehnen;streifen;Bizeps;Sehne;Streifen;AB;GER;scientific;semRel:MhasH;semRel:MhasH
-Bindegewebstransplantat;_;Binde;gewebs;transplantat;Binde;Gewebe;Transplantat;AB;GER;scientific;semRel:MderivedfromH;semRel:HlocationisM
-Patellarsehnenersatzplastik;_;Patellarsehnen;Ersatz;Plastik;Patellarsehnen;Ersatz;Plastik;BC;GER;scientific;semRel:MisH;semRel:MfromH
-Kreuzbandplastik;_;Kreuz;band;plastik;Kreuz;Band;Plastik;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Kreuzbandersatzoperation;_;Kreuzband;ersatz;operation;Kreuzband;Ersatz;Operation;BC;GER;scientific;semRel:MisH;semRel:MisH
-Kreuzbandrekonstruktion;_;Kreuz;band;rekonstruktion;Kreuz;Band;Rekonstruktion;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Muskelaufbautraining;_;Muskel;aufbau;training;Muskel;Aufbau;Training;AB;GER;scientific;semRel:MhasH;semRel:MderivedfromH
-Magnetresonanztomographie;_;Magnet;resonanz;tomographie;Magnet;Resonanz;Tomographie;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
-Kreuzbandverletzungen;_;Kreuz;band;verletzungen;Kreuz;Band;Verletzung;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Kniegelenkarthroskopien;_;Knie;gelenk;arthroskopien;Knie;Gelenk;Arthroskopie;AB;GER;scientific;semRel:MisH;semRel:HderivedfromM
-Kniegelenkergüsse;_;Knie;gelenk;ergüsse;Knie;Gelenk;Erguss;AB;GER;scientific;semRel:MisH;semRel:MhasH
-Kernspintomographie;_;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
-Gesamtkomplikationsrate;_;Gesamt;komplikations;rate;Gesamt;Komplikation;Rate;AB;GER;scientific;semRel:HisM;semRel:MhasH
-Magnetresonanztomographie;_;Magnet;resonanz;tomographie;Magnet;Resonanz;Tomographie;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
-Kreuzbandverletzungen;_;Kreuz;band;verletzungen;Kreuz;Band;Verletzung;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Kniegelenkverletzungen;_;Knie;gelenk;verletzungen;Knie;Gelenk;Verletzung;AB;GER;scientific;semRel:MisH;semRel:MhasH
-Kniegelenkuntersuchung;_;Knie;gelenk;untersuchung;Knie;Gelenk;Untersuchung;AB;GER;scientific;semRel:MisH;semRel:MhasH
-Herdanbohrungsoperationen;_;Herd;anbohrungs;operationen;Herd;Anbohrung;Operation;AB;GER;scientific;semRel:HlocationisM;semRel:MisH
-Nachuntersuchungszeitraum;_;Nachuntersuchungs;Zeit;Raum;Nachuntersuchung;Zeit;Raum;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Femurepiphysenfugen;_;Femur;epiphysen;fugen;Femur;Epiphyse;Fuge;AB;GER;scientific;semRel.MhasH;semRel:MhasH
-Operationszeitpunkt;_;Operations;zeit;punkt;Operation;Zeit;Punkt;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Nachuntersuchungszeitpunkt;_;Nachuntersuchungs;zeit;punkt;Nachuntersuchung;Zeit;Punkt;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Herdanbohrungsoperation;_;Herd;anbohrungs;operation;Herd;Anbohrungs;Operation;AB;GER;scientific;semRel:HlocationisM;semRel:HcausesM
-Wachstumsfugenschluß;_;Wachstums;fugen;schluß;Wachstum;Fuge;Schluss;AB;GER;scientific;semRel:HduringM;semRel:HlocationisM
-Sprunggelenkbeweglichkeit;_;Sprung;gelenk;beweglichkeit;Sprung;Gelenk;Beweglichkeit;AB;GER;scientific;semRel:HhasM;semRel:MhasH
-Tibiakopffrakturen;_;Tibia;kopf;frakturen;Tibia;Kopf;Fraktur;AB;GER;scientific;semRel:MhasH;semRel:MhasH
-Impressionsspaltfrakturen;_;Impressions;spalt;frakturen;Impression;Spalt;Fraktur;AB;GER;scientific;semRel:MhasH;semRel:MhasH
-Tibiakopffrakturen;_;Tibia;kopf;frakturen;Tibia;Kopf;Fraktur;AB;GER;scientific;semRel:MhasH;semRel:MhasH
-Tibiakopfosteosynthese;_;Tibia;kopf;osteosynthese;Tibia;Kopf;Osteosynthese;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Meniskusteilresektion;_;Meniskus;teil;resektion;Meniskus;Teil;Resektion;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Kreuzbandrupturen;_;Kreuz;band;rupturen;Kreuz;Band;Ruptur;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Tibiakopfosteosynthese;_;Tibia;kopf;osteosynthese;Tibia;Kopf;Osteosynthese;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Handgelenkarthroskopie;_;Hand;gelenk;arthroskopie;Hand;Gelenk;Arthroskopie;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Sesambeinpathologie;_;Sesam;bein;pathologie;Sesam;Bein;Pathologie;AB;GER;scientific;semRel:HderivedfromM;semRel:HlocationisM
-Sprunggelenkdistorsion;_;Sprung;gelenk;distorsion;Sprung;Gelenk;Distorsion;AB;GER;scientific;semRel:HhasM;semRel:HlocationisM
-Seitenbandverletzung;_;Seiten;band;verletzung;Seite;Band;Verletzung;AB;GER;scientific;semRel:HhasM;semRel:HlocationisM
-Muskelkraftmessung;_;Muskel;kraft;messung;Muskel;Kraft;Messung;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
-Seitenbandrupturen;_;Seiten;band;rupturen;Seite;Band;Rupturen;AB;GER;scientific;semRel:HhasM;semRel:HlocationisM
-Quadrizepskraftmessung;_;Quadrizeps;kraft;messung;Quadrizeps;Kraft;Messung;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
-Kreuzbandruptur;_;Kreuz;band;ruptur;Kreuz;Band;Ruptur;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
-Oberschenkelgipsverband;_;Oberschenkel;gips;verband;Oberschenkel;Gips;Verband;AB;GER;scientific;semRel:HforM;semRel:HderivedfromM
-Kniegelenkersatz;_;Knie;gelenk;ersatz;Knie;Gelenk;Ersatz;AB;GER;scientific;semRel:MisH;semRel:MhasH
-Kniegelenkarthroskopie;_;Knie;gelenk;arthroskopie;Knie;Gelenk;Arthroskopie;AB;GER;scientific;semRel:MisH;semRel:HlocationisM
-Muskelkräftigungsprogramm;_;Muskel;kräftigungs;programm;Muskel;Kräftigung;Programm;AB;GER;scientific;semRel:HderivedfromM;semRel:MderivedfromH
-Gelenkknorpeldefekten;_;Gelenk;knorpel;defekten;Gelenk;Knorpel;Defekt;AB;GER;scientific;semRel:MhasH;semRel:MhasH
-Knorpelzelltransplantaten;_;Knorpel;zell;transplantaten;Knorpel;Zell;Transplantat;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Knorpelzelltransplantate;_;Knorpel;zell;transplantate;Knorpel;Zell;Transplantate;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Wirbelsäulenschmerzen;_;Wirbel;säulen;schmerzen;Wirbel;Säule;Schmerz;AB;GER;scientific;semRel:HderivedfromM;semRel:HlocationisM
-Lendenwirbelsäule;_;Lenden;wirbel;säule;Lende;Wirbel;Säule;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
-Wirbelsäulenoperateure;_;Wirbel;säulen;operateure;Wirbel;Säule;Operateur;AB;GER;scientific;semRel:HderivedfromM;semRel:HlocationisM
-Wirbelsäulenchirurgen;_;Wirbel;säulen;chirurgen;Wirbel;Säule;Chirurg;AB;GER;scientific;semRel:HderivedfromM;semRel:HforM
-Wirbelsäuleninstrumentation;_;Wirbel;säulen;instrumentation;Wirbel;Säule;Instrumentation;AB;GER;scientific;semRel:HderivedfromM;semRel:HlocationisM
-Bindegewebsneubildung;_;Binde;gewebs;neubildung;Binde;Gewebe;Neubildung;AB;GER;scientific;semRel:MaboutH;semRel:HlocationisM
-Tibiakopffrakturen;_;Tibia;kopf;frakturen;Tibia;Kopf;Frakturen;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Kniegelenkempyemen;_;Knie;gelenk;empyemen;Knie;Gelenk;Empyem;AB;GER;scientific;semRel:MisH;semRel:HlocationisM
-Kniegelenkempyeme;_;Knie;gelenk;empyeme;Knie;Gelenk;Empyem;AB;GER;scientific;semRel:MisH;semRel:HlocationisM
-Pfannenrandbereich;_;Pfannen;rand;bereich;Pfanne;Rand;Bereich;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Schulterstabilisierungsoperationen;_;Schulter;stabilisierungs;operationen;Schulter;Stabilisierung;Operation;AB;GER;scientific;semRel:HlocationisM;semRel:HcausesM
-Labrumsubstanzschäden;_;Labrum;substanz;schäden;Labrum;Substanz;Schaden;AB;GER;scientific;semRel:HfromM;semRel:HlocationisM
-Rotatorenmanschetten;_;Rotatoren;manschetten;-;Rotator;Manschette;-;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Rotatorenmanschettendefekt;_;Rotatoren;manschetten;defekt;Rotatoren;Manschette;Defekt;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Risikosportarten;_;Risiko;sport;arten;Risiko;Sport;Art;AB;GER;scientific;semRel:HhasM;semRel:HaboutM
-Kreuzbandplastik;_;Kreuz;band;plastik;Kreuz;Band;Plastik;AB;GER;scientific;semRel:HmakesM;semRel:MhasH
-Beobachtungszeitraum;_;Beobachtungs;zeit;raum;Beobachtung;Zeit;Raum;AB;GER;scientific;semRel:MusesH;semRel:HmadeofM
-Kunstbandgruppe;_;Kunst;band;gruppe;Kunst;Band;Gruppe;AB;GER;scientific;semRel:HisM;semRel:HhasM
-Gesamtpunktzahl;_;Gesamt;punkt;zahl;Gesamt;Punkt;Zahl;AB;GER;scientific;semRel:MaboutH;semRel:HderivedfromM
-Operationszeitpunkt;_;Operations;zeit;punkt;Operation;Zeit;Punkt;AB;GER;scientific;semRel:MhasH;semRel:MhasH
-Kreuzbandplastik;_;Kreuz;band;plastik;Kreuz;Band;Plastik;AB;GER;scientific;semRel:HmakesM;semRel:MhasH
-Kreuzbandrekonstruktionen;_;Kreuz;band;rekonstruktion;Kreuz;Band;Rekonstruktion;AB;GER;scientific;semRel:HmakesM;SemRel:HlocationisM
-Kreuzbandrekonstruktion;_;Kreuz;band;rekonstruktion;Kreuz;Band;Rekonstruktion;AB;GER;scientific;semRel:HmakesM;semRel:HlocationisM
-Kniegelenkchirurgie;_;Knie;gelenk;chirurgie;Knie;Gelenk;Chirurgie;AB;GER;scientific;semRel:MisH;semRel:HlocationisM
-Periostlappenplastik;_;Periost;lappen;plastik;Periost;Lappen;Plastik;AB;GER;scientific;semRel:MhasH;semRel:MhasH
-Kreuzbandruptur;_;Kreuz;band;ruptur;Kreuz;Band;Ruptur;AB;GER;scientific;semRel:HmakesM;semRel:MhasH
-Transplantatentnahmemorbidität;_;Transplantat;entnahme;morbidität;Transplantat;Entnahme;Morbidität;AB;GER;scientific;semRel:HlocationisM;semRel:MhasH
-Scheibenwischereffekt;_;Scheiben;wischer;effekt;Scheibe;Wischer;Effekt;AB;GER;scientific;semRel:HforM;semRel:MhasH
-Wirtschaftsstaatssekretär;_;Wirtschafts;staat;sekretär;Wirtschaft;Staat;Sekretär;BC;GER;general;semRel:MaboutH;semRel:MaboutH
-Datenbankproblem;_;Daten;bank;problem;Datum;Bank;Problem;AB;GER;general;semRel:HhasM;semRel:MhasH
-Kerngeschäftsfeldern;_;Kern;geschäfts;feldern;Kern;Geschäft;Feld;AB;GER;general;semRel:MaboutH;semRel:MhasH
-Dienstleistungsgewerkschaft;_;Dienst;leistungs;gewerkschaft;Dienst;Leistung;Gewerkschaft;AB;GER;general;semRel:HforM;semRel:HforM
-Arbeitnehmervertreter;_;Arbeit;nehmer;vertreter;Arbeit;Nehmer;Vertreter;AB;GER;general;semRel:MhasH;semRel:HforM
-Kapitalanlagegesellschaften;_;Kapital;anlage;gesellschaften;Kapital;Anlage;Gesellschaft;AB;GER;general;semRel:HusesM;semRel:HmakesM
-Strukturanpassungsprogramme;_;Struktur;anpassungs;programme;Struktur;Anpassung;Programm;AB;GER;general;semRel:HhasM;semRel:HforM
-Weltökonomie-Institutionen;_;Welt;ökonomie;Institutionen;Welt;Ökonomie;Institution;AB;GER;general;semRel:HlocationisM;semRel:HaboutM
-Bundesligavereine;_;Bundes;liga;vereine;Bund;Liga;Verein;AB;GER;general;semRel:HforM;semRel:MlocationisH
-Kostenrechnungssystem;_;Kosten;rechnungs;system;Kosten;Rechnung;System;AB;GER;general;semRel:HusesM;semRel:HforM
-Freizeitwinterangebot;_;Freizeit;winter;angebot;Freizeit;Winter;Angebot;BC;GER;general;semRel:MaboutH;semRel:HforM
-Eissporthallen;_;Eis;sport;hallen;Eis;Sport;Halle;AB;GER;general;semRel:MaboutH;semRel:HforM
-Eissporthalle;_;Eis;sport;halle;Eis;Sport;Halle;AB;GER;general;semRel:MaboutH;semRel:HforM
-Kauf-Erlebniswelten;_;Kauf;Erlebnis;welten;Kauf;Erlebnis;Welt;AB;GER;general;semRel:HaboutM;semRel:MlocationisH
-Hobby-Videokamera;_;Hobby;Video;kamera;Hobby;Video;Kamera;BC;GER;general;semRel:HforM;semRel:HforM
-Tarif-Kriegsschauplatz;_;Tarif;Kriegs;schauplatz;Tarif;Krieg;Schauplatz;AB;GER;general;semRel:HusesM;semRel:MlocationisH
-Wochenlohn-Patienten;_;Wochen;lohn;Patienten;Woche;Lohn;Patient;AB;GER;general;semRel:HforM;semRel:HhasM
-Ehrenschutzbestimmungen;_;Ehren;schutz;bestimmung;Ehre;Schutz;Bestimmung;AB;GER;general;semRel:HforM;semRel:HaboutM
-Lastwagenfabrik;_;Last;wagen;fabrik;Last;Wagen;Fabrik;AB;GER;general;semRel:HforM;semRel:HmakesM
-Umweltbundesamts;_;Umwelt;bundes;amts;Umwelt;Bund;Amt;BC;GER;general;semRel:HforM;semRel:MaboutH
-Weltmarktanteil;_;Welt;markt;anteil;Welt;Markt;Anteil;AB;GER;general;semRel:MaboutH;semRel:MhasH
-Atomtestgegnern;_;Atom;test;gegnern;Atom;Test;Gegner;AB;GER;general;semRel:HusesM;semRel:HaboutM
-Atomtestfrage;_;Atom;test;frage;Atom;Test;Frage;AB;GER;general;semRel:HusesM;semRel:HaboutM
-Atombombenversuche;_;Atom;bomben;versuche;Atom;Bombe;Versuch;AB;GER;general;semRel:MaboutH;semRel:HusesM
-Massenvernichtungswaffen;_;Massen;vernichtungs;waffen;Masse;Vernichtung;Waffe;AB;GER;general;semRel:MaboutH;semRel:MaboutH
-Staatsschutzkommissariates;_;Staats;schutz;kommissariates;Staat;Schutz;Kommissariat;AB;GER;general;semRel:HaboutM;semRel:HforM
-Reisegewerbekarte;_;Reise;gewerbe;karte;Reise;Gewerbe;Karte;AB;GER;general;semRel:MaboutH;semRel:HforM
-Fußballclubbesitzer;_;Fußball;club;besitzer;Fußball;Club;Besitzer;AB;GER;general;semRel:MaboutH;semRel:HhasM
-Positronenemissionstomographie;_;Positronen;emissions;tomographie;Positron;Emission;Tomographie;AB;GER;scientific;semRel:MhasH;semRel:HusesM
-Testwiederholungseffekten;_;Test;wiederholungs;effekten;Test;Wiederholung;Effekte;AB;GER;scientific;semRel:HbyM;semRel:MhasH
-Hirnsubstanzminderung;_;Hirn;substanz;minderung;Hirn;Substanz;Minderung;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
-Kernspintomographie;_;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel:HbyM;semRel:HusesM
-Beinlängendifferenzen;_;Bein;längen;differenzen;Bein;Länge;Differenz;AB;GER;scientific;semRel=MhasH;semRel=HbyM
-Kreuzbandplastik;_;Kreuz;band;plastik;Kreuz;Band;Plastik;AB;GER;scientific;semRel=HmakesM;semRel=HaboutM
-Beinlängendifferenzen;_;Bein;längen;differenzen;Bein;Länge;Differenz;AB;GER;scientific;semRel=MhasH;semRel=HbyM
-Nachbeobachtungszeitraum;_;Nachbeobachtungs;zeit;raum;Nachbeobachtung;Zeit;Raum;AB;GER;general;semRel=HforM;semRel=HhasM
-Kreuzbandchirurgie;_;Kreuz;band;chirurgie;Kreuz;Band;Chirurgie;AB;GER;scientific;semRel=HmakesM;semRel=HforM
-Transplantataustrittsstelle;_;Transplantat;austritts;stelle;Transplantat;Austritt;Stelle;BC;GER;scientific;semRel=HbyM;semRel=MlocationisH
-Kreuzbandrekonstruktion;_;Kreuz;band;rekonstruktion;Kreuz;Band;Rekonstruktion;AB;GER;scientific;semRel=HmakesM;semRel=HmakesM
-Kniegelenkbeschwerden;_;Knie;gelenk;beschwerden;Knie;Gelenk;Beschwerde;AB;GER;scientific;semRel=HisM;semRel=HlocationisM
-Korbhenkelläsion;_;Korb;henkel;läsion;Korb;Henkel;Läsion;AB;GER;scientific;semRel=MhasH;semRel=HisM
-Operationszeitpunkt;_;Operations;zeit;punkt;Operation;Zeit;Punkt;BC;GER;scientific;semRel:HforM;semRel:HbyM
-Zugfestigkeitsuntersuchungen;_;Zug;festigkeits;untersuchungen;Zug;Festigkeit;Untersuchung;AB;GER;scientific;semRel=HaboutM;semRel=HaboutM
-Kernspintomographie;_;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel=HbyM;semRel=HusesM
-Fragebogenuntersuchung;_;Frage;bogen;untersuchung;Frage;Bogen;Untersuchung;AB;GER;scientific;semRel=HhasM;semRel=HusesM
-Kreuzbandverletzungen;_;Kreuz;band;verletzungen;Kreuz;Band;Verletzung;AB;GER;scientific;semRel=HmakesM;semRel=HlocationisM
-Giftgasdose;_;Gift;gas;dose;Gift;Gas;Dose;AB;GER;general;semRel:HisM;semRel:HhasM
-Bundesgeschäftsführer;_;Bundes;geschäfts;führer;Bund;Geschäft;Führer;BC;GER;general;semRel:MhasH;semRel:HforM
-Umweltschutzpreis;_;Umwelt;schutz;preis;Umwelt;schutz;preis;AB;GER;general;semRel:HforM;semRel:HaboutM
-Erdgasautos;_;Erd;gas;autos;Erde;Gas;Auto;AB;GER;general;semRel:HderivedfromM;semRel:HusesM
-Kanzleramtschef;_;Kanzler;amts;chef;Kanzler;Amt;Chef;AB;GER;general;semRel:HforM;semRel:HforM
-Bundesjugendministerin;_;Bundes;jugend;ministerin;Bund;Jugend;Ministerin;BC;GER;general;semRel:MhasH;semRel:HforM
-Bundesgesundheitsminister;_;Bundes;gesundheits;minister;Bund;Gesundheit;Minister;BC;GER;general;semRel: MhasH;semRel:HforM
-Notfallpatienten;_;Not;fall;patienten;Not;Fall;Patient;AB;GER;general;semRel:HaboutM;semRel:HhasM
-Weltökonomie-Institutionen;_;Welt;ökonomie;Institutionen;Welt;Ökonomie;Institution;AB;GER;general;semRel:MhasH;semRel:HforM
-Zonenrandförderung;_;Zonen;rand;förderung;Zone;Rand;Förderung;AB;GER;general;semRel:MhasH;semRel:HforM
-Kirchturmspitze;_;Kirch;turm;spitze;Kirche;Turm;Spitze;AB;GER;general;semRel:MhasH;semRel:MhasH
-Schiffahrtsmagnaten;_;Schiff;fahrts;magnaten;Schiff;Fahrt;Magnat;AB;GER;general;semRel:HbyM;semRel:HaboutM
-Stadtautobahn;_;Stadt;auto;bahn;Stadt;Auto;Bahn;BC;GER;general;semRel:HlocationisM;semRel:HforM
-Kriegsverbrechertribunals;_;Kriegs;verbrecher;tribunals;Krieg;Verbrecher;Tribunal;AB;GER;general;semRel:HaboutM;semRel:HforM
-Atomkraftwerken;_;Atom;kraft;werken;Atom;Kraft;Werk;BC;GER;general;semRel:HusesM;semRel:HmakesM
-Kohlekraftwerks;_;Kohle;kraft;werks;Kohle;Kraft;Werk;BC;GER;general;semRel:HusesM;semRel:HmakesM
-Campingplatzparzellen;_;Camping;platz;parzellen;Camping;Platz;Parzelle;AB;GER;general;semRel:HforM;semRel:MhasH
-Wohngeldstrukturnovelle;_;Wohngeld;struktur;novelle;Wohngeld;Struktur;Novelle;BC;GER;general;semRel:HaboutM;semRel:HaboutM
-Surrogatmarkerbestimmung;_;Surrogat;marker;bestimmung;Surrogat;Marker;Bestimmung;AB;GER;scientific;semRel=HisM;semRel=HaboutM
-Kernspintomographie;_;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel=HbyM;semRel=HusesM
-Hirnnervenbereich;_;Hirn;nerven;Bereich;Hirn;Nerv;Bereich;AB;GER;scientific;semRel=HlocationisM;semRel=MlocationisH
-Hirnrindenentwicklung;_;Hirn;rinden;entwicklung;Hirn;Rinde;Entwicklung;AB;GER;scientific;semRel=MhasH;semRel=HbyM
-Knochenmarktransplantation;_;Knochen;mark;transplantation;Knochen;Mark;Transplantation;AB;GER;scientific;semRel=HlocationisM;semRel=HaboutM
-Wortfindungsstörungen;_;Wort;findungs;störungen;Wort;Findung;Störung;AB;GER;scientific;semRel=HaboutM;semRel=HaboutM
-Hirnparenchymläsionen;_;Hirn;parenchym;läsionen;Hirn;Parenchym;Läsion;AB;GER;scientific;semRel=HlocationisM;semRel=HaboutM
-Handschriftfläche;_;Hand;schrift;fläche;Hand;Schrift;Fläche;AB;GER;scientific;semRel=HbyM;semRel=HforM
-Kernspintomographie;_;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel=HbyM;semRel=HusesM
-Notfallsituationen;_;Not;fall;situationen;Not;Fall;Situation;AB;GER;scientific;semRel=HaboutM;semRel=HaboutM
-Magnetresonanztomographie;_;Magnet;resonanz;tomographie;Magnet;Resonanz;Tomographie;AB;GER;scientific;semRel=HcausedbyM;semRel=HusesM
-Positronenemissionstomographie;_;Positronen;emissions;tomographie;Positron;Emission;Tomographie;AB;GER;scientific;semRel=HbyM;semRel=HusesM
-East-West negotiations;_;East;West;negotiations;east;west;negotiation;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
+Blutgefäßversorgung;Blutgefäßversorgung;Blut;gefäß;versorgung;Blut;Gefäß;Versorgung;AB;GER;scientific;semRel:MderivedfromH;semRel:MhasH
+Faserknorpelzone;Faserknorpelzone;Faser;knorpel;zone;Faser;Knorpel;Zone;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
+Kniegelenkpräparate;Kniegelenkpräparat;Knie;gelenk;präparate;Knie;Gelenk;Präparate;AB;GER;scientific;semRel:MisH;semRel:HderivedfromM
+Bindegewebstransplantate;Bindegewebstransplantat;Binde;gewebs;transplantate;Binde;Gewebe;Transplantat;AB;GER;scientific;semRel:MderivedfromH;semRel:HlocationisM
+Kreuzbandersatz;Kreuzbandersatz;Kreuz;band;ersatz;Kreuz;Band;Ersatz;AB;GER;scientific;semRel:MisH;semRel:MhasH
+Quadrizepssehnentransplantate;Quadrizepssehnentransplantat;Quadrizeps;Sehnen;transplantate;Quadrizeps;Sehne;Transplantat;AB;GER;scientific;semRel:HderivedfromM;semRel:HderivedfromM
+Bizepssehnenstreifen;Bizepssehnenstreifen;Bizeps;sehnen;streifen;Bizeps;Sehne;Streifen;AB;GER;scientific;semRel:MhasH;semRel:MhasH
+Bindegewebstransplantat;Bindegewebstransplantat;Binde;gewebs;transplantat;Binde;Gewebe;Transplantat;AB;GER;scientific;semRel:MderivedfromH;semRel:HlocationisM
+Patellarsehnenersatzplastik;Patellarsehnenersatzplastik;Patellarsehnen;Ersatz;Plastik;Patellarsehnen;Ersatz;Plastik;BC;GER;scientific;semRel:MisH;semRel:MfromH
+Kreuzbandplastik;Kreuzbandplastik;Kreuz;band;plastik;Kreuz;Band;Plastik;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Kreuzbandersatzoperation;Kreuzbandersatzoperation;Kreuzband;ersatz;operation;Kreuzband;Ersatz;Operation;BC;GER;scientific;semRel:MisH;semRel:MisH
+Kreuzbandrekonstruktion;Kreuzbandrekonstruktion;Kreuz;band;rekonstruktion;Kreuz;Band;Rekonstruktion;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Muskelaufbautraining;Muskelaufbautraining;Muskel;aufbau;training;Muskel;Aufbau;Training;AB;GER;scientific;semRel:MhasH;semRel:MderivedfromH
+Magnetresonanztomographie;Magnetresonanztomographie;Magnet;resonanz;tomographie;Magnet;Resonanz;Tomographie;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
+Kreuzbandverletzungen;Kreuzbandverletzungen;Kreuz;band;verletzungen;Kreuz;Band;Verletzung;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Kniegelenkarthroskopien;Kniegelenkarthroskopien;Knie;gelenk;arthroskopien;Knie;Gelenk;Arthroskopie;AB;GER;scientific;semRel:MisH;semRel:HderivedfromM
+Kniegelenkergüsse;Kniegelenkerguss;Knie;gelenk;ergüsse;Knie;Gelenk;Erguss;AB;GER;scientific;semRel:MisH;semRel:MhasH
+Kernspintomographie;Kernspintomographie;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
+Gesamtkomplikationsrate;Gesamtkomplikationsrate;Gesamt;komplikations;rate;Gesamt;Komplikation;Rate;AB;GER;scientific;semRel:HisM;semRel:MhasH
+Magnetresonanztomographie;Magnetresonanztomographie;Magnet;resonanz;tomographie;Magnet;Resonanz;Tomographie;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
+Kreuzbandverletzungen;Kreuzbandverletzung;Kreuz;band;verletzungen;Kreuz;Band;Verletzung;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Kniegelenkverletzungen;Kniegelenkverletzung;Knie;gelenk;verletzungen;Knie;Gelenk;Verletzung;AB;GER;scientific;semRel:MisH;semRel:MhasH
+Kniegelenkuntersuchung;Kniegelenkuntersuchung;Knie;gelenk;untersuchung;Knie;Gelenk;Untersuchung;AB;GER;scientific;semRel:MisH;semRel:MhasH
+Herdanbohrungsoperationen;Herdanbohrungsoperation;Herd;anbohrungs;operationen;Herd;Anbohrung;Operation;AB;GER;scientific;semRel:HlocationisM;semRel:MisH
+Nachuntersuchungszeitraum;Nachuntersuchungszeitraum;Nachuntersuchungs;Zeit;Raum;Nachuntersuchung;Zeit;Raum;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Femurepiphysenfugen;Femurepiphysenfuge;Femur;epiphysen;fugen;Femur;Epiphyse;Fuge;AB;GER;scientific;semRel.MhasH;semRel:MhasH
+Operationszeitpunkt;Operationszeitpunkt;Operations;zeit;punkt;Operation;Zeit;Punkt;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Nachuntersuchungszeitpunkt;Nachuntersuchungszeitpunkt;Nachuntersuchungs;zeit;punkt;Nachuntersuchung;Zeit;Punkt;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Herdanbohrungsoperation;Herdanbohrungsoperation;Herd;anbohrungs;operation;Herd;Anbohrungs;Operation;AB;GER;scientific;semRel:HlocationisM;semRel:HcausesM
+Wachstumsfugenschluß;Wachstumsfugenschluß;Wachstums;fugen;schluß;Wachstum;Fuge;Schluss;AB;GER;scientific;semRel:HduringM;semRel:HlocationisM
+Sprunggelenkbeweglichkeit;Sprunggelenkbeweglichkeit;Sprung;gelenk;beweglichkeit;Sprung;Gelenk;Beweglichkeit;AB;GER;scientific;semRel:HhasM;semRel:MhasH
+Tibiakopffrakturen;Tibiakopffraktur;Tibia;kopf;frakturen;Tibia;Kopf;Fraktur;AB;GER;scientific;semRel:MhasH;semRel:MhasH
+Impressionsspaltfrakturen;Impressionsspaltfraktur;Impressions;spalt;frakturen;Impression;Spalt;Fraktur;AB;GER;scientific;semRel:MhasH;semRel:MhasH
+Tibiakopffrakturen;Tibiakopffraktur;Tibia;kopf;frakturen;Tibia;Kopf;Fraktur;AB;GER;scientific;semRel:MhasH;semRel:MhasH
+Tibiakopfosteosynthese;Tibiakopfosteosynthese;Tibia;kopf;osteosynthese;Tibia;Kopf;Osteosynthese;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Meniskusteilresektion;Meniskusteilresektion;Meniskus;teil;resektion;Meniskus;Teil;Resektion;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Kreuzbandrupturen;Kreuzbandruptur;Kreuz;band;rupturen;Kreuz;Band;Ruptur;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Tibiakopfosteosynthese;Tibiakopfosteosynthese;Tibia;kopf;osteosynthese;Tibia;Kopf;Osteosynthese;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Handgelenkarthroskopie;Handgelenkarthroskopie;Hand;gelenk;arthroskopie;Hand;Gelenk;Arthroskopie;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Sesambeinpathologie;Sesambeinpathologie;Sesam;bein;pathologie;Sesam;Bein;Pathologie;AB;GER;scientific;semRel:HderivedfromM;semRel:HlocationisM
+Sprunggelenkdistorsion;Sprunggelenkdistorsion;Sprung;gelenk;distorsion;Sprung;Gelenk;Distorsion;AB;GER;scientific;semRel:HhasM;semRel:HlocationisM
+Seitenbandverletzung;Seitenbandverletzung;Seiten;band;verletzung;Seite;Band;Verletzung;AB;GER;scientific;semRel:HhasM;semRel:HlocationisM
+Muskelkraftmessung;Muskelkraftmessung;Muskel;kraft;messung;Muskel;Kraft;Messung;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
+Seitenbandrupturen;Seitenbandrupturen;Seiten;band;rupturen;Seite;Band;Rupturen;AB;GER;scientific;semRel:HhasM;semRel:HlocationisM
+Quadrizepskraftmessung;Quadrizepskraftmessung;Quadrizeps;kraft;messung;Quadrizeps;Kraft;Messung;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
+Kreuzbandruptur;Kreuzbandruptur;Kreuz;band;ruptur;Kreuz;Band;Ruptur;AB;GER;scientific;semRel:HderivedfromM;semRel:MhasH
+Oberschenkelgipsverband;Oberschenkelgipsverband;Oberschenkel;gips;verband;Oberschenkel;Gips;Verband;AB;GER;scientific;semRel:HforM;semRel:HderivedfromM
+Kniegelenkersatz;Kniegelenkersatz;Knie;gelenk;ersatz;Knie;Gelenk;Ersatz;AB;GER;scientific;semRel:MisH;semRel:MhasH
+Kniegelenkarthroskopie;Kniegelenkarthroskopie;Knie;gelenk;arthroskopie;Knie;Gelenk;Arthroskopie;AB;GER;scientific;semRel:MisH;semRel:HlocationisM
+Muskelkräftigungsprogramm;Muskelkräftigungsprogramm;Muskel;kräftigungs;programm;Muskel;Kräftigung;Programm;AB;GER;scientific;semRel:HderivedfromM;semRel:MderivedfromH
+Gelenkknorpeldefekten;Gelenkknorpeldefekt;Gelenk;knorpel;defekten;Gelenk;Knorpel;Defekt;AB;GER;scientific;semRel:MhasH;semRel:MhasH
+Knorpelzelltransplantaten;Knorpelzelltransplantat;Knorpel;zell;transplantaten;Knorpel;Zell;Transplantat;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Knorpelzelltransplantate;Knorpelzelltransplantat;Knorpel;zell;transplantate;Knorpel;Zell;Transplantate;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Wirbelsäulenschmerzen;Wirbelsäulenschmerz;Wirbel;säulen;schmerzen;Wirbel;Säule;Schmerz;AB;GER;scientific;semRel:HderivedfromM;semRel:HlocationisM
+Lendenwirbelsäule;Lendenwirbelsäule;Lenden;wirbel;säule;Lende;Wirbel;Säule;AB;GER;scientific;semRel:MhasH;semRel:HderivedfromM
+Wirbelsäulenoperateure;Wirbelsäulenoperateur;Wirbel;säulen;operateure;Wirbel;Säule;Operateur;AB;GER;scientific;semRel:HderivedfromM;semRel:HlocationisM
+Wirbelsäulenchirurgen;Wirbelsäulenchirurg;Wirbel;säulen;chirurgen;Wirbel;Säule;Chirurg;AB;GER;scientific;semRel:HderivedfromM;semRel:HforM
+Wirbelsäuleninstrumentation;Wirbelsäuleninstrumentation;Wirbel;säulen;instrumentation;Wirbel;Säule;Instrumentation;AB;GER;scientific;semRel:HderivedfromM;semRel:HlocationisM
+Bindegewebsneubildung;Bindegewebsneubildung;Binde;gewebs;neubildung;Binde;Gewebe;Neubildung;AB;GER;scientific;semRel:MaboutH;semRel:HlocationisM
+Tibiakopffrakturen;Tibiakopffraktur;Tibia;kopf;frakturen;Tibia;Kopf;Frakturen;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Kniegelenkempyemen;Kniegelenkempyemen;Knie;gelenk;empyemen;Knie;Gelenk;Empyem;AB;GER;scientific;semRel:MisH;semRel:HlocationisM
+Kniegelenkempyeme;Kniegelenkempyem;Knie;gelenk;empyeme;Knie;Gelenk;Empyem;AB;GER;scientific;semRel:MisH;semRel:HlocationisM
+Pfannenrandbereich;Pfannenrandbereich;Pfannen;rand;bereich;Pfanne;Rand;Bereich;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Schulterstabilisierungsoperationen;Schulterstabilisierungsoperation;Schulter;stabilisierungs;operationen;Schulter;Stabilisierung;Operation;AB;GER;scientific;semRel:HlocationisM;semRel:HcausesM
+Labrumsubstanzschäden;Labrumsubstanzschaden;Labrum;substanz;schäden;Labrum;Substanz;Schaden;AB;GER;scientific;semRel:HfromM;semRel:HlocationisM
+Rotatorenmanschettenläsionen;Rotatorenmanschettenläsion;Rotatoren;manschetten;läsionen;Rotator;Manschette;Läsion;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Rotatorenmanschettendefekt;Rotatorenmanschettendefekt;Rotatoren;manschetten;defekt;Rotatoren;Manschette;Defekt;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Risikosportarten;Risikosportart;Risiko;sport;arten;Risiko;Sport;Art;AB;GER;scientific;semRel:HhasM;semRel:HaboutM
+Kreuzbandplastik;Kreuzbandplastik;Kreuz;band;plastik;Kreuz;Band;Plastik;AB;GER;scientific;semRel:HmakesM;semRel:MhasH
+Beobachtungszeitraum;Beobachtungszeitraum;Beobachtungs;zeit;raum;Beobachtung;Zeit;Raum;AB;GER;scientific;semRel:MusesH;semRel:HmadeofM
+Kunstbandgruppe;Kunstbandgruppe;Kunst;band;gruppe;Kunst;Band;Gruppe;AB;GER;scientific;semRel:HisM;semRel:HhasM
+Gesamtpunktzahl;Gesamtpunktzahl;Gesamt;punkt;zahl;Gesamt;Punkt;Zahl;AB;GER;scientific;semRel:MaboutH;semRel:HderivedfromM
+Operationszeitpunkt;Operationszeitpunkt;Operations;zeit;punkt;Operation;Zeit;Punkt;AB;GER;scientific;semRel:MhasH;semRel:MhasH
+Kreuzbandplastik;Kreuzbandplastik;Kreuz;band;plastik;Kreuz;Band;Plastik;AB;GER;scientific;semRel:HmakesM;semRel:MhasH
+Kreuzbandrekonstruktionen;Kreuzbandrekonstruktion;Kreuz;band;rekonstruktion;Kreuz;Band;Rekonstruktion;AB;GER;scientific;semRel:HmakesM;SemRel:HlocationisM
+Kreuzbandrekonstruktion;Kreuzbandrekonstruktion;Kreuz;band;rekonstruktion;Kreuz;Band;Rekonstruktion;AB;GER;scientific;semRel:HmakesM;semRel:HlocationisM
+Kniegelenkchirurgie;Kniegelenkchirurgie;Knie;gelenk;chirurgie;Knie;Gelenk;Chirurgie;AB;GER;scientific;semRel:MisH;semRel:HlocationisM
+Periostlappenplastik;Periostlappenplastik;Periost;lappen;plastik;Periost;Lappen;Plastik;AB;GER;scientific;semRel:MhasH;semRel:MhasH
+Kreuzbandruptur;Kreuzbandruptur;Kreuz;band;ruptur;Kreuz;Band;Ruptur;AB;GER;scientific;semRel:HmakesM;semRel:MhasH
+Transplantatentnahmemorbidität;Transplantatentnahmemorbidität;Transplantat;entnahme;morbidität;Transplantat;Entnahme;Morbidität;AB;GER;scientific;semRel:HlocationisM;semRel:MhasH
+Scheibenwischereffekt;Scheibenwischereffekt;Scheiben;wischer;effekt;Scheibe;Wischer;Effekt;AB;GER;scientific;semRel:HforM;semRel:MhasH
+Wirtschaftsstaatssekretär;Wirtschaftsstaatssekretär;Wirtschafts;staat;sekretär;Wirtschaft;Staat;Sekretär;BC;GER;general;semRel:MaboutH;semRel:MaboutH
+Datenbankproblem;Datenbankproblem;Daten;bank;problem;Datum;Bank;Problem;AB;GER;general;semRel:HhasM;semRel:MhasH
+Kerngeschäftsfeldern;Kerngeschäftsfeld;Kern;geschäfts;feldern;Kern;Geschäft;Feld;AB;GER;general;semRel:MaboutH;semRel:MhasH
+Dienstleistungsgewerkschaft;Dienstleistungsgewerkschaft;Dienst;leistungs;gewerkschaft;Dienst;Leistung;Gewerkschaft;AB;GER;general;semRel:HforM;semRel:HforM
+Arbeitnehmervertreter;Arbeitnehmervertreter;Arbeit;nehmer;vertreter;Arbeit;Nehmer;Vertreter;AB;GER;general;semRel:MhasH;semRel:HforM
+Kapitalanlagegesellschaften;Kapitalanlagegesellschaft;Kapital;anlage;gesellschaften;Kapital;Anlage;Gesellschaft;AB;GER;general;semRel:HusesM;semRel:HmakesM
+Strukturanpassungsprogramme;Strukturanpassungsprogramme;Struktur;anpassungs;programme;Struktur;Anpassung;Programm;AB;GER;general;semRel:HhasM;semRel:HforM
+Weltökonomie-Institutionen;Weltökonomie-Institutionen;Welt;ökonomie;Institutionen;Welt;Ökonomie;Institution;AB;GER;general;semRel:HlocationisM;semRel:HaboutM
+Bundesligavereine;Bundesligaverein;Bundes;liga;vereine;Bund;Liga;Verein;AB;GER;general;semRel:HforM;semRel:MlocationisH
+Kostenrechnungssystem;Kostenrechnungssystem;Kosten;rechnungs;system;Kosten;Rechnung;System;AB;GER;general;semRel:HusesM;semRel:HforM
+Freizeitwinterangebot;Freizeitwinterangebot;Freizeit;winter;angebot;Freizeit;Winter;Angebot;BC;GER;general;semRel:MaboutH;semRel:HforM
+Eissporthallen;Eissporthalle;Eis;sport;hallen;Eis;Sport;Halle;AB;GER;general;semRel:MaboutH;semRel:HforM
+Eissporthalle;Eissporthalle;Eis;sport;halle;Eis;Sport;Halle;AB;GER;general;semRel:MaboutH;semRel:HforM
+Kauf-Erlebniswelten;Kauf-Erlebniswelt;Kauf;Erlebnis;welten;Kauf;Erlebnis;Welt;AB;GER;general;semRel:HaboutM;semRel:MlocationisH
+Hobby-Videokamera;Hobby-Videokamera;Hobby;Video;kamera;Hobby;Video;Kamera;BC;GER;general;semRel:HforM;semRel:HforM
+Tarif-Kriegsschauplatz;Tarif-Kriegsschauplatz;Tarif;Kriegs;schauplatz;Tarif;Krieg;Schauplatz;AB;GER;general;semRel:HusesM;semRel:MlocationisH
+Wochenlohn-Patienten;Wochenlohn-Patient;Wochen;lohn;Patienten;Woche;Lohn;Patient;AB;GER;general;semRel:HforM;semRel:HhasM
+Ehrenschutzbestimmungen;Ehrenschutzbestimmungen;Ehren;schutz;bestimmung;Ehre;Schutz;Bestimmung;AB;GER;general;semRel:HforM;semRel:HaboutM
+Lastwagenfabrik;Lastwagenfabrik;Last;wagen;fabrik;Last;Wagen;Fabrik;AB;GER;general;semRel:HforM;semRel:HmakesM
+Umweltbundesamts;Umweltbundesamt;Umwelt;bundes;amts;Umwelt;Bund;Amt;BC;GER;general;semRel:HforM;semRel:MaboutH
+Weltmarktanteil;Weltmarktanteil;Welt;markt;anteil;Welt;Markt;Anteil;AB;GER;general;semRel:MaboutH;semRel:MhasH
+Atomtestgegnern;Atomtestgegner;Atom;test;gegnern;Atom;Test;Gegner;AB;GER;general;semRel:HusesM;semRel:HaboutM
+Atomtestfrage;Atomtestfrage;Atom;test;frage;Atom;Test;Frage;AB;GER;general;semRel:HusesM;semRel:HaboutM
+Atombombenversuche;Atombombenversuch;Atom;bomben;versuche;Atom;Bombe;Versuch;AB;GER;general;semRel:MaboutH;semRel:HusesM
+Massenvernichtungswaffen;Massenvernichtungswaffe;Massen;vernichtungs;waffen;Masse;Vernichtung;Waffe;AB;GER;general;semRel:MaboutH;semRel:MaboutH
+Staatsschutzkommissariates;Staatsschutzkommissariat;Staats;schutz;kommissariates;Staat;Schutz;Kommissariat;AB;GER;general;semRel:HaboutM;semRel:HforM
+Reisegewerbekarte;Reisegewerbekarte;Reise;gewerbe;karte;Reise;Gewerbe;Karte;AB;GER;general;semRel:MaboutH;semRel:HforM
+Fußballclubbesitzer;Fußballclubbesitzer;Fußball;club;besitzer;Fußball;Club;Besitzer;AB;GER;general;semRel:MaboutH;semRel:HhasM
+Positronenemissionstomographie;Positronenemissionstomographie;Positronen;emissions;tomographie;Positron;Emission;Tomographie;AB;GER;scientific;semRel:MhasH;semRel:HusesM
+Testwiederholungseffekten;Testwiederholungseffekten;Test;wiederholungs;effekten;Test;Wiederholung;Effekte;AB;GER;scientific;semRel:HbyM;semRel:MhasH
+Hirnsubstanzminderung;Hirnsubstanzminderung;Hirn;substanz;minderung;Hirn;Substanz;Minderung;AB;GER;scientific;semRel:MhasH;semRel:HlocationisM
+Kernspintomographie;Kernspintomographie;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel:HbyM;semRel:HusesM
+Beinlängendifferenzen;Beinlängendifferenz;Bein;längen;differenzen;Bein;Länge;Differenz;AB;GER;scientific;semRel:MhasH;semRel:HbyM
+Kreuzbandplastik;Kreuzbandplastik;Kreuz;band;plastik;Kreuz;Band;Plastik;AB;GER;scientific;semRel:HmakesM;semRel:HaboutM
+Beinlängendifferenzen;Beinlängendifferenz;Bein;längen;differenzen;Bein;Länge;Differenz;AB;GER;scientific;semRel:MhasH;semRel:HbyM
+Nachbeobachtungszeitraum;Nachbeobachtungszeitraum;Nachbeobachtungs;zeit;raum;Nachbeobachtung;Zeit;Raum;AB;GER;general;semRel:HforM;semRel:HhasM
+Kreuzbandchirurgie;Kreuzbandchirurgie;Kreuz;band;chirurgie;Kreuz;Band;Chirurgie;AB;GER;scientific;semRel:HmakesM;semRel:HforM
+Transplantataustrittsstelle;Transplantataustrittsstelle;Transplantat;austritts;stelle;Transplantat;Austritt;Stelle;BC;GER;scientific;semRel:HbyM;semRel:MlocationisH
+Kreuzbandrekonstruktion;Kreuzbandrekonstruktion;Kreuz;band;rekonstruktion;Kreuz;Band;Rekonstruktion;AB;GER;scientific;semRel:HmakesM;semRel:HmakesM
+Kniegelenkbeschwerden;Kniegelenkbeschwerde;Knie;gelenk;beschwerden;Knie;Gelenk;Beschwerde;AB;GER;scientific;semRel:HisM;semRel:HlocationisM
+Korbhenkelläsion;Korbhenkelläsion;Korb;henkel;läsion;Korb;Henkel;Läsion;AB;GER;scientific;semRel:MhasH;semRel:HisM
+Operationszeitpunkt;Operationszeitpunkt;Operations;zeit;punkt;Operation;Zeit;Punkt;BC;GER;scientific;semRel:HforM;semRel:HbyM
+Zugfestigkeitsuntersuchungen;Zugfestigkeitsuntersuchung;Zug;festigkeits;untersuchungen;Zug;Festigkeit;Untersuchung;AB;GER;scientific;semRel:HaboutM;semRel:HaboutM
+Kernspintomographie;Kernspintomographie;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel:HbyM;semRel:HusesM
+Fragebogenuntersuchung;Fragebogenuntersuchung;Frage;bogen;untersuchung;Frage;Bogen;Untersuchung;AB;GER;scientific;semRel:HhasM;semRel:HusesM
+Kreuzbandverletzungen;Kreuzbandverletzung;Kreuz;band;verletzungen;Kreuz;Band;Verletzung;AB;GER;scientific;semRel:HmakesM;semRel:HlocationisM
+Giftgasdose;Giftgasdose;Gift;gas;dose;Gift;Gas;Dose;AB;GER;general;semRel:HisM;semRel:HhasM
+Bundesgeschäftsführer;Bundesgeschäftsführer;Bundes;geschäfts;führer;Bund;Geschäft;Führer;BC;GER;general;semRel:MhasH;semRel:HforM
+Umweltschutzpreis;Umweltschutzpreis;Umwelt;schutz;preis;Umwelt;schutz;preis;AB;GER;general;semRel:HforM;semRel:HaboutM
+Erdgasautos;Erdgasautos;Erd;gas;autos;Erde;Gas;Auto;AB;GER;general;semRel:HderivedfromM;semRel:HusesM
+Kanzleramtschef;Kanzleramtschef;Kanzler;amts;chef;Kanzler;Amt;Chef;AB;GER;general;semRel:HforM;semRel:HforM
+Bundesjugendministerin;Bundesjugendministerin;Bundes;jugend;ministerin;Bund;Jugend;Ministerin;BC;GER;general;semRel:MhasH;semRel:HforM
+Bundesgesundheitsminister;Bundesgesundheitsminister;Bundes;gesundheits;minister;Bund;Gesundheit;Minister;BC;GER;general;semRel: MhasH;semRel:HforM
+Notfallpatienten;Notfallpatienten;Not;fall;patienten;Not;Fall;Patient;AB;GER;general;semRel:HaboutM;semRel:HhasM
+Weltökonomie-Institutionen;Weltökonomie-Institutionen;Welt;ökonomie;Institutionen;Welt;Ökonomie;Institution;AB;GER;general;semRel:MhasH;semRel:HforM
+Zonenrandförderung;Zonenrandförderung;Zonen;rand;förderung;Zone;Rand;Förderung;AB;GER;general;semRel:MhasH;semRel:HforM
+Kirchturmspitze;Kirchturmspitze;Kirch;turm;spitze;Kirche;Turm;Spitze;AB;GER;general;semRel:MhasH;semRel:MhasH
+Schiffahrtsmagnaten;Schiffahrtsmagnaten;Schiff;fahrts;magnaten;Schiff;Fahrt;Magnat;AB;GER;general;semRel:HbyM;semRel:HaboutM
+Stadtautobahn;Stadtautobahn;Stadt;auto;bahn;Stadt;Auto;Bahn;BC;GER;general;semRel:HlocationisM;semRel:HforM
+Kriegsverbrechertribunals;Kriegsverbrechertribunal;Kriegs;verbrecher;tribunals;Krieg;Verbrecher;Tribunal;AB;GER;general;semRel:HaboutM;semRel:HforM
+Atomkraftwerken;Atomkraftwerk;Atom;kraft;werken;Atom;Kraft;Werk;BC;GER;general;semRel:HusesM;semRel:HmakesM
+Kohlekraftwerks;Kohlekraftwerk;Kohle;kraft;werks;Kohle;Kraft;Werk;BC;GER;general;semRel:HusesM;semRel:HmakesM
+Campingplatzparzellen;Campingplatzparzelle;Camping;platz;parzellen;Camping;Platz;Parzelle;AB;GER;general;semRel:HforM;semRel:MhasH
+Wohngeldstrukturnovelle;Wohngeldstrukturnovelle;Wohngeld;struktur;novelle;Wohngeld;Struktur;Novelle;BC;GER;general;semRel:HaboutM;semRel:HaboutM
+Surrogatmarkerbestimmung;Surrogatmarkerbestimmung;Surrogat;marker;bestimmung;Surrogat;Marker;Bestimmung;AB;GER;scientific;semRel:HisM;semRel:HaboutM
+Kernspintomographie;Kernspintomographie;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel:HbyM;semRel:HusesM
+Hirnnervenbereich;Hirnnervenbereich;Hirn;nerven;Bereich;Hirn;Nerv;Bereich;AB;GER;scientific;semRel:HlocationisM;semRel:MlocationisH
+Hirnrindenentwicklung;Hirnrindenentwicklung;Hirn;rinden;entwicklung;Hirn;Rinde;Entwicklung;AB;GER;scientific;semRel:MhasH;semRel:HbyM
+Knochenmarktransplantation;Knochenmarktransplantation;Knochen;mark;transplantation;Knochen;Mark;Transplantation;AB;GER;scientific;semRel:HlocationisM;semRel:HaboutM
+Wortfindungsstörungen;Wortfindungsstörung;Wort;findungs;störungen;Wort;Findung;Störung;AB;GER;scientific;semRel:HaboutM;semRel:HaboutM
+Hirnparenchymläsionen;Hirnparenchymläsionen;Hirn;parenchym;läsionen;Hirn;Parenchym;Läsion;AB;GER;scientific;semRel:HlocationisM;semRel:HaboutM
+Handschriftfläche;Handschriftfläche;Hand;schrift;fläche;Hand;Schrift;Fläche;AB;GER;scientific;semRel:HbyM;semRel:HforM
+Kernspintomographie;Kernspintomographie;Kern;spin;tomographie;Kern;Spin;Tomographie;AB;GER;scientific;semRel:HbyM;semRel:HusesM
+Notfallsituationen;Notfallsituationen;Not;fall;situationen;Not;Fall;Situation;AB;GER;scientific;semRel:HaboutM;semRel:HaboutM
+Magnetresonanztomographie;Magnetresonanztomographie;Magnet;resonanz;tomographie;Magnet;Resonanz;Tomographie;AB;GER;scientific;semRel:HcausedbyM;semRel:HusesM
+Positronenemissionstomographie;Positronenemissionstomographie;Positronen;emissions;tomographie;Positron;Emission;Tomographie;AB;GER;scientific;semRel:HbyM;semRel:HusesM
+East-West negotiations;East-West negotiation;East;West;negotiations;east;west;negotiation;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
 weapons modernisation programmes;weapon modernisation programme;weapons;modernisation;programmes;weapon;modernisation;programme;AB;EN;general;semRel:HforM;semRel:HforM
 State Department spokesmen;State Department spokesmen;State;Department;spokesmen;State;Department;spokesmen;AB;EN;general;semRel:HforM;semRel:HforM
 metal ballot boxes;metal ballot box;metal;ballot;boxes;metal;ballot;box;BC;EN;general;semRel:HmadeofM;semRel:HforM
 World Food Programme;World Food Programme;World;Food;Programme;World;Food;Programme;AB;EN;general;semRel:HforM;semRel:HaboutM
 emergency food aid;emergency food aid;emergency;food;aid;emergency;food;aid;BC;EN;general;semRel:HduringM;semRel:HbyM
-Stalin-Hitler pact;_;Stalin;Hitler;pact;Stalin;Hitler;pact;BC;EN;general;semRel:HmadebyM;semRel:HmadebyM
-headquarters .;_;head;quarters;.;head;quarter;.;AB;EN;general;semRel:HhasM;_
-Warsaw Pact countries;Warsaw Pact country;Warsaw;Pact;countries;Warsaw;Pact;country;AB;EN;general;semRel:HlocationisM|_;semRel:HmakesM|_
-police murder unit;police murder unit;police;murder;unit;police;murder;unit;AB;EN;general;semRel:HbyM|_;semRel:HforM|_
-human rights lawyer;human right lawyer;human;rights;lawyer;human;right;lawyer;AB;EN;general;semRel:HforM|_;semRel:HforM|_
+Stalin-Hitler pact;Stalin-Hitler pact;Stalin;Hitler;pact;Stalin;Hitler;pact;BC;EN;general;semRel:HmadebyM;semRel:HmadebyM
+police headquarters;police headquarters;police;head ;quarters;police;head;quarters;BC;EN;general;semRel:HforM;semRel:HhasM
+Warsaw Pact countries;Warsaw Pact country;Warsaw;Pact;countries;Warsaw;Pact;country;AB;EN;general;semRel:HlocationisM;semRel:HmakesM
+police murder unit;police murder unit;police;murder;unit;police;murder;unit;AB;EN;general;semRel:HbyM;semRel:HforM
+human rights lawyer;human right lawyer;human;rights;lawyer;human;right;lawyer;AB;EN;general;semRel:HforM;semRel:HforM
 Tiananmen Square massacre;Tiananmen Square massacre;Tiananmen;Square;massacre;Tiananmen;Square;massacre;AB;EN;general;semRel:HlocationisM;semRel:HlocationisM
-East-West relations;_;East;West;relations;east;west;relation;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
+East-West relations;East-West relation;East;West;relations;east;west;relation;BC;EN;general;semRel:HderivedfromM;semRel:HderivedfromM
 trade magazine journalist;trade magazine journalist;trade;magazine;journalist;trade;magazine;journalist;AB;EN;general;semRel:HaboutM;semRel:HforM
 treaty revision conference;treaty revision conference;treaty;revision;conference;treaty;revision;conference;AB;EN;general;semRel:HforM;semRel:HforM
 exchange rate regime;exchange rate regime;exchange;rate;regime;exchange;rate;regime;AB;EN;general;semRel:MhasH;semRel:HforM
@@ -216,14 +216,14 @@ Congress Party government;Congress Party government;Congress;Party;government;Co
 police security guards;police security guard;police;security;guards;police;security;guard;BC;EN;general;semRel:HisM;semRel:HforM
 leg length differences;leg length difference;leg;length;differences;leg;length;difference;AB;EN;scientific;semRel:MhasH;semRel:HderivedfromM
 knee joint effusion;knee joint effusion;knee;joint;effusion;knee;joint;effusion;AB;EN;scientific;semRel:MhasH;semRel:HlocationisM
-bucket- handle tears;bucket- handle tear;bucket-;handle;tears;bucket-;handle;tear;AB;EN;scientific;semRel:MhasH|SpaceAfter=No;semRel:HderivedfromM|SpaceAfter=No
-bucket- handle resections;bucket- handle resection;bucket-;handle;resections;bucket-;handle;resection;AB;EN;scientific;semRel:MhasH|SpaceAfter=No;semRel:HlocationisM|SpaceAfter=No
+bucket- handle tears;bucket- handle tear;bucket-;handle;tears;bucket-;handle;tear;AB;EN;scientific;semRel:MhasH;semRel:HderivedfromM
+bucket- handle resections;bucket- handle resection;bucket-;handle;resections;bucket-;handle;resection;AB;EN;scientific;semRel:MhasH;semRel:HlocationisM
 suture fixation technique;suture fixation technique;suture;fixation;technique;suture;fixation;technique;AB;EN;scientific;semRel:HbyM;semRel:HusesM
 graft fixation techniques;graft fixation technique;graft;fixation;techniques;graft;fixation;technique;AB;EN;scientific;semRel:HusesM;semRel:HusesM
-windshield- wiper motion;windshield- wiper motion;windshield-;wiper;motion;windshield-;wiper;motion;AB;EN;scientific;semRel:HforM|SpaceAfter=No;semRel:HisM|SpaceAfter=No
-windshield- wiper effect;windshield- wiper effect;windshield-;wiper;effect;windshield-;wiper;effect;AB;EN;scientific;semRel:HforM|SpaceAfter=No;semRel:HderivedfromM|SpaceAfter=No
+windshield-wiper motion;windshield-wiper motion;windshield-;wiper;motion;windshield-;wiper;motion;AB;EN;scientific;semRel:HforM;semRel:HisM
+windshield-wiper effect;windshield-wiper effect;windshield-;wiper;effect;windshield-;wiper;effect;AB;EN;scientific;semRel:HforM;semRel:HderivedfromM
 Sports Surgery Department;Sports surgery Department;Sports;Surgery;Department;Sports;surgery;Department;AB;EN;scientific;semRel:HderivedfromM;semRel:HforM
-bucket- handle type;bucket- handle type;bucket-;handle;type;bucket-;handle;type;AB;EN;scientific;semRel:MhasH|SpaceAfter=No;semRel:HderivedfromM|SpaceAfter=No
+bucket-handle type;bucket-handle type;bucket-;handle;type;bucket-;handle;type;AB;EN;scientific;semRel:MhasH;semRel:HderivedfromM
 crisis management operations;crisis management operation;crisis;management;operations;crisis;management;operation;AB;EN;general;semRel:HduringM;semRel:MforH
 Moscow party leader;Moscow party leader;Moscow;party;leader;Moscow;party;leader;BC;EN;general;semRel:MhasH;semRel:MhasH
 Leningrad party boss;Leningrad party boss;Leningrad;party;boss;Leningrad;party;boss;BC;EN;general;semRel:MhasH;semRel:MhasH
@@ -234,22 +234,22 @@ Air Force Colonel;Air Force Colonel;Air;Force;Colonel;Air;Force;Colonel;AB;EN;ge
 space shuttle mission;space shuttle mission;space;shuttle;mission;space;shuttle;mission;AB;EN;general;semRel:HforM;semRel:HusesM
 Warsaw Pact countries;Warsaw Pact country;Warsaw;Pact;countries;Warsaw;Pact;country;AB;EN;general;semRel:HlocationisM;semRel:HmakesM
 Stroke Unit concept;stroke unit concept;Stroke;Unit;concept;stroke;unit;concept;AB;EN;scientific;semRel:HforM;semRel:HisM
-bedside monitors;_;bed;side;monitors;bed;side;monitor;AB;EN;scientific;semRel:MhasH;semRel:HlocationisM
+bedside monitors;bedside monitors;bed;side;monitors;bed;side;monitor;AB;EN;scientific;semRel:MhasH;semRel:HlocationisM
 Stroke Unit treatment;stroke unit treatment;Stroke;Unit;treatment;stroke;unit;treatment;AB;EN;scientific;semRel:HforM;semRel:HlocationisM
 psychotherapy research conditions;psychotherapy research condition;psychotherapy;research;conditions;psychotherapy;research;condition;AB;EN;scientific;semRel:HaboutM;semRel:HduringM
 choroid plexus papilloma;choroid plexus papilloma;choroid;plexus;papilloma;choroid;plexus;papilloma;AB;EN;scientific;semRel:HderivedfromM;semRel:HlocationisM
-brainstem lesion;_;brain;stem;lesion;brain;stem;lesion;AB;EN;scientific;semRel:MhasH;semRel:HlocationisM
+brainstem lesion;brainstem lesion;brain;stem;lesion;brain;stem;lesion;AB;EN;scientific;semRel:MhasH;semRel:HlocationisM
 membrane phospholipid hypotheses;membrane phospholipid hypothese;membrane;phospholipid;hypotheses;membrane;phospholipid;hypothese;AB;EN;scientific;semRel:MhasH;semRel:HaboutM
-handwriting area;_;hand;writing;area;hand;writing;area;AB;EN;scientific;semRel:HbyM;semRel:HforM
+handwriting area;handwriting area;hand;writing;area;hand;writing;area;AB;EN;scientific;semRel:HbyM;semRel:HforM
 dopamine receptor occupancy;dopamine receptor occupancy;dopamine;receptor;occupancy;dopamine;receptor;occupancy;AB;EN;scientific;semRel:HforM;semRel:HbyM
-lifetime -;_;life;time;-;life;time;-;AB;EN;scientific;semRel:HderivedfromM;semRel:HduringM
+lifetime-diagnoses;lifetime-diagnosis;life;time;diagnoses;life;time;diagnosis;AB;EN;scientific;semRel:HderivedfromM;semRel:HduringM
 tyrosine hydroxylase genes;tyrosine hydroxylase gene;tyrosine;hydroxylase;genes;tyrosine;hydroxylase;gene;AB;EN;scientific;semRel:HforM;semRel:HmakesM
 health care system;health care system;health;care;system;health;care;system;AB;EN;scientific;semRel:HforM;semRel:HforM
 health care providers;health care provider;health;care;providers;health;care;provider;AB;EN;scientific;semRel:HforM;semRel:HforM
 thyroid laboratory parameters;thyroid laboratory parameter;thyroid;laboratory;parameters;thyroid;laboratory;parameter;AB;EN;scientific;semRel:HderivedfromM;semRel:HderivedfromM
-alcohol- dependence syndrome;alcohol- dependence syndrome;alcohol-;dependence;syndrome;alcohol-;dependence;syndrome;AB;EN;scientific;semRel:HderivedfromM|SpaceAfter=No;semRel:HisM|SpaceAfter=No
+alcohol- dependence syndrome;alcohol- dependence syndrome;alcohol-;dependence;syndrome;alcohol-;dependence;syndrome;AB;EN;scientific;semRel:HderivedfromM;semRel:HisM
 addiction research unit;addiction research unit;addiction;research;unit;addiction;research;unit;AB;EN;scientific;semRel:HaboutM;semRel:HforM
-alcohol- dependence syndrome;alcohol- dependence syndrome;alcohol-;dependence;syndrome;alcohol-;dependence;syndrome;AB;EN;scientific;semRel:HderivedfromM|SpaceAfter=No;semRel:HisM|SpaceAfter=No
+alcohol- dependence syndrome;alcohol- dependence syndrome;alcohol-;dependence;syndrome;alcohol-;dependence;syndrome;AB;EN;scientific;semRel:HderivedfromM;semRel:HisM
 androgen receptor gene;androgen receptor gene;androgen;receptor;gene;androgen;receptor;gene;AB;EN;scientific;semRel:HforM;semRel:HforM
 Nerve conduction studies;Nerve conduction study;Nerve;conduction;studies;Nerve;conduction;study;AB;EN;scientific;semRel:HbyM;semRel:HaboutM
 blood brain barrier;blood brain barrier;blood;brain;barrier;blood;brain;barrier;AB;EN;scientific;semRel:MlocationsisH;semRel:MhasH
@@ -258,39 +258,39 @@ stroke unit treatment;stroke unit treatment;stroke;unit;treatment;stroke;unit;tr
 blood flow velocities;blood flow velocity;blood;flow;velocities;blood;flow;velocity;AB;EN;scientific;semRel:MhasH;semRel:HderivedfromM
 blood pressure changes;blood pressure change;blood;pressure;changes;blood;pressure;change;AB;EN;scientific;semRel:MhasH;semRel:MhasH
 stroke unit care;stroke unit care;stroke;unit;care;stroke;unit;care;AB;EN;scientific;semRel:HforM;semRel:HbyM
-day- care centers;day- care center;day-;care;centers;day-;care;center;AB;EN;scientific;semRel:HduringM|SpaceAfter=No;semRel:HforM|SpaceAfter=No
+day-care centers;day-care center;day-;care;centers;day-;care;center;AB;EN;scientific;semRel:HduringM;semRel:HforM
 health care institutions;health care institution;health;care;institutions;health;care;institution;AB;EN;scientific;semRel:HforM;semRel:HforM
 hospital order institution;hospital order institution;hospital;order;institution;hospital;order;institution;AB;EN;scientific;semRel:HforM;semRel:HforM
-anxiety- elation psychosis;anxiety- elation psychosis;anxiety-;elation;psychosis;anxiety-;elation;psychosis;BC;EN;scientific;semRel:HderivedfromM|SpaceAfter=No;semRel:HderivedfromM
-riot squad officers;riot squad officer;riot;squad;officers;riot;squad;officer;AB;EN;general;semRel:HforM|_;semRel:MhasH|_
-police trade union;police trade union;police;trade;union;police;trade;union;BC;EN;general;semRel:MhasH|_;semRel:HforM|_
-plainclothes police presence;plainclothe police presence;plainclothes;police;presence;plainclothe;police;presence;AB;EN;general;semRel:HhasM|_;semRel:HmadeofM|_
-student democracy movement;student democracy movement;student;democracy;movement;student;democracy;movement;BC;EN;general;semRel:HbyM|_;semRel:HforM|_
-Tibet Information Network;Tibet Information Network;Tibet;Information;Network;Tibet;Information;Network;AB;EN;general;semRel:HaboutM|_;semRel:HforM|_
-Nobel Peace Prize;Nobel Peace Prize;Nobel;Peace;Prize;Nobel;Peace;Prize;BC;EN;general;semRel:HbyM|_;semRel:HforM|_
-Tehran embassy siege;Tehran embassy siege;Tehran;embassy;siege;Tehran;embassy;siege;AB;EN;general;semRel:HlocationisM|_;semRel:HlocationisM|_
-air defence weapons;air defence weapon;air;defence;weapons;air;defence;weapon;AB;EN;general;semRel:HforM|_;semRel:HforM|_
-trade union leaders;trade union leader;trade;union;leaders;trade;union;leader;AB;EN;general;semRel:HforM|_;semRel:MhasH|_
-intifada protest songs;intifada protest song;intifada;protest;songs;intifada;protest;song;BC;EN;general;semRel:HaboutM|_;semRel:HaboutM|_
-Citizens Rights Movement;citizen Right Movement;Citizens;Rights;Movement;citizen;Right;Movement;AB;EN;general;semRel:HforM|_;semRel:HforM|_
-Miami race trial;Miami race trial;Miami;race;trial;Miami;race;trial;AB;EN;general;semRel:HlocationisM|_;semRel:HaboutM|_
-Lahore business man;Lahore business man;Lahore;business;man;Lahore;business;man;BC;EN;general;semRel:MhasH|_;semRel:HhasM|_
-emergency integration measures;emergency integration measure;emergency;integration;measures;emergency;integration;measure;BC;EN;general;semRel:HduringM|_;semRel:HforM|_
-arms control agreements;arm control agreement;arms;control;agreements;arm;control;agreement;AB;EN;general;semRel:HforM|_;semRel:HaboutM|_
-space arms issues;space arm issue;space;arms;issues;space;arm;issue;BC;EN;general;semRel:HaboutM|_;semRel:HaboutM|_
-home affairs job;home affair job;home;affairs;job;home;affair;job;AB;EN;general;semRel:HaboutM|_;semRel:HaboutM|_
-home affairs minister;home affair minister;home;affairs;minister;home;affair;minister;AB;EN;general;semRel:HaboutM|_;semRel:HforM|_
-satellite television channels;satellite television channel;satellite;television;channels;satellite;television;channel;AB;EN;general;semRel:HbyM|_;semRel:MhasH|_
-dance music favourites;dance music favourite;dance;music;favourites;dance;music;favourite;BC;EN;general;semRel:HforM|_;semRel:HaboutM|_
-police trade union;police trade union;police;trade;union;police;trade;union;BC;EN;general;semRel:MhasH|_;semRel:HforM|_
-Tibet Information Network;Tibet Information Network;Tibet;Information;Network;Tibet;Information;Network;AB;EN;general;semRel:HaboutM|_;semRel:HforM|_
-Tibet Information Network;Tibet Information Network;Tibet;Information;Network;Tibet;Information;Network;AB;EN;general;semRel:HaboutM|_;semRel:HforM|_
-Nobel Peace Prize;Nobel Peace Prize;Nobel;Peace;Prize;Nobel;Peace;Prize;BC;EN;general;semRel:HderivedfromM|_;semRel:HforM|_
-Tehran embassy siege;Tehran embassy siege;Tehran;embassy;siege;Tehran;embassy;siege;AB;EN;general;semRel:HlocationisM|_;semRel:HlocationisM|_
-intifada protest songs;intifada protest song;intifada;protest;songs;intifada;protest;song;AB;EN;general;semRel:HaboutM|_;semRel:HaboutM|_
-Citizens Rights Movement;citizen Right Movement;Citizens;Rights;Movement;citizen;Right;Movement;AB;EN;general;semRel:HforM|_;semRel:HforM|_
-Miami race trial;Miami race trial;Miami;race;trial;Miami;race;trial;BC;EN;general;semRel:HlocationisM|_;semRel:HaboutM|_
-dance music favourites;dance music favourite;dance;music;favourites;dance;music;favourite;AB;EN;general;semRel:HforM|_;semRel:MhasH|_
-Troop pullout plan;troop pullout plan;Troop;pullout;plan;troop;pullout;plan;AB;EN;general;semRel:MhasH|_;semRel:HforM|_
+anxiety-elation psychosis;anxiety-elation psychosis;anxiety-;elation;psychosis;anxiety-;elation;psychosis;BC;EN;scientific;semRel:HderivedfromM;semRel:HderivedfromM
+riot squad officers;riot squad officer;riot;squad;officers;riot;squad;officer;AB;EN;general;semRel:HforM;semRel:MhasH
+police trade union;police trade union;police;trade;union;police;trade;union;BC;EN;general;semRel:MhasH;semRel:HforM
+plainclothes police presence;plainclothe police presence;plainclothes;police;presence;plainclothe;police;presence;AB;EN;general;semRel:HhasM;semRel:HmadeofM
+student democracy movement;student democracy movement;student;democracy;movement;student;democracy;movement;BC;EN;general;semRel:HbyM;semRel:HforM
+Tibet Information Network;Tibet Information Network;Tibet;Information;Network;Tibet;Information;Network;AB;EN;general;semRel:HaboutM;semRel:HforM
+Nobel Peace Prize;Nobel Peace Prize;Nobel;Peace;Prize;Nobel;Peace;Prize;BC;EN;general;semRel:HbyM;semRel:HforM
+Tehran embassy siege;Tehran embassy siege;Tehran;embassy;siege;Tehran;embassy;siege;AB;EN;general;semRel:HlocationisM;semRel:HlocationisM
+air defence weapons;air defence weapon;air;defence;weapons;air;defence;weapon;AB;EN;general;semRel:HforM;semRel:HforM
+trade union leaders;trade union leader;trade;union;leaders;trade;union;leader;AB;EN;general;semRel:HforM;semRel:MhasH
+intifada protest songs;intifada protest song;intifada;protest;songs;intifada;protest;song;BC;EN;general;semRel:HaboutM;semRel:HaboutM
+Citizens Rights Movement;citizen Right Movement;Citizens;Rights;Movement;citizen;Right;Movement;AB;EN;general;semRel:HforM;semRel:HforM
+Miami race trial;Miami race trial;Miami;race;trial;Miami;race;trial;AB;EN;general;semRel:HlocationisM;semRel:HaboutM
+Lahore business man;Lahore business man;Lahore;business;man;Lahore;business;man;BC;EN;general;semRel:MhasH;semRel:HhasM
+emergency integration measures;emergency integration measure;emergency;integration;measures;emergency;integration;measure;BC;EN;general;semRel:HduringM;semRel:HforM
+arms control agreements;arm control agreement;arms;control;agreements;arm;control;agreement;AB;EN;general;semRel:HforM;semRel:HaboutM
+space arms issues;space arm issue;space;arms;issues;space;arm;issue;BC;EN;general;semRel:HaboutM;semRel:HaboutM
+home affairs job;home affair job;home;affairs;job;home;affair;job;AB;EN;general;semRel:HaboutM;semRel:HaboutM
+home affairs minister;home affair minister;home;affairs;minister;home;affair;minister;AB;EN;general;semRel:HaboutM;semRel:HforM
+satellite television channels;satellite television channel;satellite;television;channels;satellite;television;channel;AB;EN;general;semRel:HbyM;semRel:MhasH
+dance music favourites;dance music favourite;dance;music;favourites;dance;music;favourite;BC;EN;general;semRel:HforM;semRel:HaboutM
+police trade union;police trade union;police;trade;union;police;trade;union;BC;EN;general;semRel:MhasH;semRel:HforM
+Tibet Information Network;Tibet Information Network;Tibet;Information;Network;Tibet;Information;Network;AB;EN;general;semRel:HaboutM;semRel:HforM
+Tibet Information Network;Tibet Information Network;Tibet;Information;Network;Tibet;Information;Network;AB;EN;general;semRel:HaboutM;semRel:HforM
+Nobel Peace Prize;Nobel Peace Prize;Nobel;Peace;Prize;Nobel;Peace;Prize;BC;EN;general;semRel:HderivedfromM;semRel:HforM
+Tehran embassy siege;Tehran embassy siege;Tehran;embassy;siege;Tehran;embassy;siege;AB;EN;general;semRel:HlocationisM;semRel:HlocationisM
+intifada protest songs;intifada protest song;intifada;protest;songs;intifada;protest;song;AB;EN;general;semRel:HaboutM;semRel:HaboutM
+Citizens Rights Movement;citizen Right Movement;Citizens;Rights;Movement;citizen;Right;Movement;AB;EN;general;semRel:HforM;semRel:HforM
+Miami race trial;Miami race trial;Miami;race;trial;Miami;race;trial;BC;EN;general;semRel:HlocationisM;semRel:HaboutM
+dance music favourites;dance music favourite;dance;music;favourites;dance;music;favourite;AB;EN;general;semRel:HforM;semRel:MhasH
+Troop pullout plan;troop pullout plan;Troop;pullout;plan;troop;pullout;plan;AB;EN;general;semRel:MhasH;semRel:HforM
 Sandinista campaign slogan;Sandinista campaign slogan;Sandinista;campaign;slogan;Sandinista;campaign;slogan;AB;EN;general;semRel:HbyM;semRel:MhasH
-Somoza-era hangovers;_;Somoza;era;hangovers;somoza;era;hangover;AB;EN;general;semRel:HderivedfromM;semRel:HcausedbyM
+Somoza-era hangovers;Somoza-era hangover;Somoza;era;hangovers;somoza;era;hangover;AB;EN;general;semRel:HderivedfromM;semRel:HcausedbyM
