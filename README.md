@@ -5,17 +5,18 @@ The resource was presented at the Ninth Workshop on Universal Dependencies (UDW 
 
 ## CoBra Annotator
 
-code for annotation tool
+Code for the annotation tool.
 
 ## Data
 
-compound data: 
-- files with compounds in sentence context
-- overview file with annotated compound
+Compound data: 
+- Overview file with annotated compound
+- Files with compounds in sentence context
 
 ## Semantic Transparency
 
-code and results of semantic transparency analysis
+Code and results of the semantic transparency analysis.
 
 ## Paper
 
+Carmen Schacht, Isabell Landwehr, Diana Davidson, Konrad Grabowski, Magdalena Meiser, Sophia Wiedmann. 2026. CoBra: A compound branching resource for nominal triconstituent compounds in English and German. In *Proceedings of the Ninth Workshop on Universal Dependencies* (UDW, LREC 2026), pages 128-141. Palma, Spain.
